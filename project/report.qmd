@@ -1,0 +1,252 @@
+---
+title: "WASH and HIV: The leading cause of death in children under 5"
+subtitle: "*The connection between water, sanitation and hygiene (WASH) and HIV, which results in the death of children.*"
+author: "Katie Sheridan"
+date: "2024-04-10"
+lightbox: true
+format:
+  html:
+    mainfont: serif
+    sansfont: serif
+    theme: 
+     light: journal
+     dark: darkly
+    backgroundcolor: "#7DA2A9"
+    toc: true
+execute:
+  echo: false
+  warning: false
+  message: false
+
+---
+## Introduction 
+[***HIV and WASH***]{style="color:darkred;"} are closely related, and this interaction has a significant impact on [***child mortality rates***]{style="color:darkred;"}, especially for children under the age of five. In many places, poor access to hygienic practices, clean water, and sanitary facilities not only increases the likelihood of HIV/AIDS infection and spread but also exacerbates the transmission. This nexus underscores how [***critical***]{style="color:darkred;"} it is to develop integrated [***strategies***]{style="color:darkred;"} that address HIV prevention and treatment tactics in addition to WASH-related issues to mitigate the devastating impact on [***child health and survival***]{style="color:darkred;"}.
+
+
+Below I have mentioned the different data I will be using throughout this report:
+
+::: {style="font-size: 80%;"}
+
+- Proportion of population using improved sanitation facilities.
+- Reported number of pregnant women presenting at antenatal clinics (ANC)     who were tested for HIV or already knew their HIV positive status.
+- Mother-to-child HIV transmission rate.
+- Deaths caused by diarrhea in 2021.
+- Under-five mortality rate.
+- Average Life expectancy from 1960 to 2022.
+
+:::
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(plotly)
+
+# data
+unicef_metadata <- read_csv("unicef_metadata.csv")
+unicef_indicator_1 <- read_csv("unicef_indicator_1 - unicef_indicator_1.csv")
+unicef_indicator_2 <- read_csv("unicef_indicator_2 - unicef_indicator_2.csv")
+Deaths_caused_by_diarrhoea <- read_csv("Deaths caused by diarrhoea.csv")
+Transmission_rate_2021_2024 <- read_csv("Transmission rate 2021-2024.csv")
+Deaths_under_5_2024 <- read_csv("^1 deaths under 5-2024 (3).csv")
+
+# transformations
+unicef_indicator_2_2021 <- filter(unicef_indicator_2, time_period == 2021)
+unicef_indicator_1_2021 <- filter(unicef_indicator_1, time_period == 2021)
+Death_under5_total <- filter(Deaths_under_5_2024, Sex == "Total")
+
+
+date_join_1<- full_join(Death_under5_total, Deaths_caused_by_diarrhoea, by = c("Geographic area" = "Country"))
+```
+## HIV(Human Immunodeficiency Virus)
+
+::: columns
+::: {.column width="30%"}
+
+![](stopaids.png){width=2in}
+:::
+
+::: {.column width="70%"}
+
+HIV-positive pregnant women [***face unique challenges***]{style="color:darkred;"}, especially with regard to illnesses linked to water, sanitation, and hygiene (WASH).
+
+<br>
+
+Access to clean water and sanitation facilities is [***crucial to reduce the risk of opportunistic infections***]{style="color:darkred;"} that could compromise the health of both the mother and the unborn child.
+
+:::
+:::
+```{r}
+#| fig-cap: The [***darkred***]{style="color:darkred;"} in the maps (above and below) highlights the negative results(High no. of + HIV tests/Low access to improved sanitation facilities). From these Maps we can see that the countries most effected are in [***sub-saharan Africa.***]{.underline}
+
+map_world <- map_data("world")
+options(scipen = 999)
+
+map_data_join_1 <- full_join(map_world, unicef_indicator_2_2021, by = c("region" = "country"))
+
+ggplot(map_data_join_1) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  scale_fill_gradient(low = "pink", high = "darkred", na.value = "grey",       limits=c(1, 3023000)) +
+  labs(
+    title = " Number of pregnant women presenting at antenatal clinics (ANC) who were HIV positive in 2021 (World)",
+    caption = "Source:Unicef",
+    x = "Longitude",
+    y = "Latitude",
+    fill = "No. of + HIV tests"
+    ) +
+    theme_classic() +
+    theme(text = element_text(size = 10, family = "serif"))
+```
+
+## WASH(Water, sanitation and hygiene)
+```{r}
+map_data_join_2 <- full_join(map_world, unicef_indicator_1_2021, by = c("region" = "country"))
+
+ggplot(map_data_join_2) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  scale_fill_gradient(low = "darkred", high = "pink", na.value = "grey", limits=c(0,100 )) +
+  labs(
+    title = " Proportion of population using improved sanitation facilities in 2021 (World)",
+  caption = "Source:Unicef",
+  x = "Longitude",
+  y = "Latitude",
+  fill = "Prop.of Population"
+  ) +
+  theme_classic()+
+  theme(text = element_text(size = 10, family = "serif"))
+```
+
+::: columns
+::: {.column width="40%"}
+
+![](PHOTO 8.png){width=2.5in}
+:::
+
+::: {.column width="60%"}
+
+People usually practise [***open defecation***]{style="color:darkred;"} or riverbank dumping when they [***lack access***]{style="color:darkred;"} to sanitation. In order to guarantee that individuals living with HIV (PLHIV) lead healthy and fulfilling lives, [***WASH is crucial***]{style="color:darkred;"}.
+
+<br>
+Typhoid and skin infections are among the WASH-related ailments that people living with HIV are more prone to. Additionally, those who have HIV are [***six times more likely to get diarrheal illness***]{style="color:darkred;"}; 90% of those who have HIV have experienced diarrhoea at least once.(STOPAIDS., 2013)
+
+
+:::
+:::
+
+::: {style="font-size: 80%;"}
+      ^Marion Chavulu, in Chikompulazi village, Mzuzu, Malawi, cleaning her hands outside her latrine(STOPAIDS., 2013)
+:::
+
+
+
+
+## Child mortality
+
+As a result of their weakened immune systems, infants exposed to HIV are more susceptible to diseases like diarrhea. [***'Babies born to mothers living with HIV are three times more likely to have diarrhea.'***]{style="color:darkred;"}(STOPAIDS., 2013). In regions where there is a limited access to healthcare and clean water infants exposed to HIV face a higher risk of diarrheal diseases, which [***raises the death rate of children under five by a substantial margin.***]{style="color:darkred;"}
+```{r}
+#| fig-cap: "Above we can see from the scatter plot that there is a positive correlation between % deaths caused by diarrhoea and child mortality rate under 5. As seen previously, it is sub-saharan Africa that is most affected and experiencing the devasting impact of HIV and WASH related illnesses."
+ggplot(date_join_1) +
+  aes(x = OBS_VALUE, y = Indicator.y, colour = ...3 ) +
+  geom_point() +
+  scale_color_brewer(palette = "Reds") +
+  geom_smooth(method = "lm", colour = "black") +
+  theme_classic() +
+  theme(text = element_text(size = 10, family = "serif")) +
+  labs(
+  title = " % Deaths caused by Diarrhoea and Overall mortality rate in Children under-Five in 2021 (World)",
+  caption = "Source: Unicef",
+  x = "Under-five mortality rate",
+  y = " % Deaths Caused by Diarrhoea",
+  colour = "Continents"
+  )
+
+```
+## Transmission 
+[***Mother-to-child transmission (MTCT)***]{style="color:darkred;"} of HIV occurs when an HIV-positive mother passes the virus to her [***child during pregnancy, childbirth, or breastfeeding.***]{style="color:darkred;"} The risk of MTCT can range from [***15 to 45%***]{style="color:darkred;"} in the absence of treatment.This means that without medical intervention, nearly half of the infants born to HIV-positive mothers may acquire the virus. But the risk can be brought down to [***less than 5%***]{style="color:darkred;"} with the right measures including [***antiretroviral therapy (ART).***]{style="color:darkred;"}
+```{r}
+colnames(Transmission_rate_2021_2024) <- c("Country", "Indicator", "Sex","year", "Transmission_rate", "Unit multiplier","Unit of measure", "Observation Status")
+
+Transmission_subset<-subset(Transmission_rate_2021_2024, Country %in% c("Angola", "Burkina Faso", "Cameroon", "Chad", "CÃ´te d'Ivoire", "Ivory Coast", "Congo, the Democratic Republic of the", "Ethiopia", "Ghana", "Indonesia", "Iran, Islamic Republic of", "Kenya", "Malawi", "Mexico", "Mozambique", "South Africa", "Uganda", "Tanzania, United Republic of", "Uzbekistan", "Viet Nam", "Vietnam", "Zambia"))
+Transmission_graph <-ggplot(Transmission_subset) +
+  aes(reorder(Country, Transmission_rate), Transmission_rate, fill = Country,) +
+  geom_col() +
+  guides(fill = "none") +
+  scale_x_discrete(label=abbreviate) +
+  theme_classic() +
+  theme(text = element_text(size = 10, family = "serif"),
+        axis.text.x = element_blank()
+  ) +
+  labs(
+    title = "Mother-to-child HIV transmission rate in 2021 vs. 2022",
+    caption = "Source: Unicef",
+    x = "Country",
+    y = " Mother-to-child HIV transmission rate",
+    colour = "Country"
+  ) +
+  facet_wrap(~ year) +
+  scale_fill_manual(values = c("#feede2","#fee4d2","#fed5b9", "#ffcba9", "#ffc299", "#ffb888", "#ffa970", "#ff9b57", "#ff8c3f","#ff7d26", "#ff6a06","#f46200", "#e45c00", "#d45500", "#c34f00", "#b34800", "#a34100","#923b00", "#823400","#722e00", "#612700", "#800000","#730000","#660000","#5a0000","#4d0000","#400000","#330000", "#260000", "#1a0000", "#0d0000"))
+  
+ggplotly(Transmission_graph) 
+```
+
+::: {style="font-size: 80%;"}
+      ^Hover over the bars to view the transmission rate of each country taken from the sample.
+:::
+
+This is a sample taken from the list of countries with the highest number of pregnant women who tested positive for HIV in 2021.
+
+## Life Expectancy
+::: columns
+::: {.column width="20%"}
+
+![](RedRibbon.png){width=1.5in}
+:::
+
+::: {.column width="80%"}
+
+A population's health and well-being can be determined by looking at important indicators such as the infant mortality rate and life expectancy at birth. 
+
+<br>
+[***Greater life expectancy***]{style="color:darkred;"} at birth and lower infant mortality rates are signs of [*improved nutrition, hygiene, healthcare facilities, and general socioeconomic development in a community.*]{.underline}
+
+:::
+:::
+
+
+From the time series graph below, we can see that [***life expectancy has increased between 1960 and 2022***]{style="color:darkred;"} in this sample of countries, with major advances linked to improvements in living standards and healthcare. But trends in life expectancy have been [***significantly impacted by the HIV/AIDS pandemic***]{style="color:darkred;"}, especially in the hardest-hit areas.While high-income countries with better access to antiretroviral therapy (ART) have seen improvements, low-income countries continue to face challenges in addressing HIV transmission and its associated impacts on life expectancy. [***Disparities still exist***]{style="color:darkred;"} despite advancements in HIV treatment and prevention, underscoring the necessity of ongoing [***global healthcare system strengthening initiatives***]{style="color:darkred;"} and HIV/AIDS preventive efforts to [***extend life expectancy and enhance overall well-being.***]{style="color:darkred;"}
+
+```{r}
+colnames(unicef_metadata) <- c("Country", "alpha_2_code", "alpha_3_code" ,"numeric_code" ,"iso3c", "year" , "Population", "GDP_Per_Capita" , "GNI", "Inflation", "LifeExp", "Military")
+
+Life_Expectancy_subset <-subset(unicef_metadata, Country %in% c("Angola", "Burkina Faso", "Cameroon", "Chad", "CÃ´te d'Ivoire", "Ivory Coast", "Congo, the Democratic Republic of the", "Ethiopia", "Ghana", "Indonesia", "Iran, Islamic Republic of", "Kenya", "Malawi", "Mexico", "Mozambique", "South Africa", "Uganda", "Tanzania, United Republic of", "Uzbekistan", "Viet Nam", "Vietnam", "Zambia"))
+  
+  Metadata_timeseries_subset <- Life_Expectancy_subset %>%
+    ggplot() +
+    aes(year, LifeExp, group = Country, colour = Country) +
+    geom_line() +
+    guides(colour = "none") +
+    theme_classic() +
+    theme(text = element_text(size = 10, family = "serif")) +
+    labs(
+      x = "Year",
+      y = " Life Expectancy at birth",
+      colour = "Country"
+    ) +
+    scale_color_manual(values = c("#ffb888", "#ffa970", "#ff9b57", "#ff8c3f", "#ff6a06","#f46200", "#e45c00", "#d45500", "#c34f00", "#b34800", "#a34100","#923b00", "#823400","#722e00", "#612700", "#800000","#730000","#5a0000","#4d0000","#400000","#330000", "#260000"))+
+    theme_classic() +
+    theme(text = element_text(size = 10, family = "serif"))
+  
+  ggplotly(Metadata_timeseries_subset) %>%
+  layout(title = list(text = paste0( "The Analysation of the average life Expectancy at birth from 1960-2022 from a sample of countries.",
+                                    "<br>",
+                                    "<sup>",
+                                    "This a sample of twenty countries with the highest number of pregnant women who tested positive for HIV in 2021.","</sup>")))
+```
+## Conclusion 
+As we can see from the data throughout this report child mortality is greatly impacted by the relationship between HIV and WASH, particularly in [***sub-Saharan Africa***]{style="color:darkred;"} where there is [***inadequate access to clean water and sanitation***]{style="color:darkred;"}, which [***exacerbates HIV transmission***]{style="color:darkred;"} and related illnesses. Given the increased risk of HIV infection in infants born to women who are positive for the virus, antiretroviral medication is an important form of intervention. The HIV/AIDS pandemic continues to impact the hardest-hit communities despite gains in life expectancy worldwide since 1960. This highlights the need for [***integrated efforts***]{style="color:darkred;"} to address HIV, WASH, and child health challenges.
+
+![](unicef2.png){fig-alt="Unicef" fig-align="right" width=1.5in}

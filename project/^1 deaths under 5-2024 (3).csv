@@ -1,0 +1,731 @@
+﻿Geographic area,Indicator,Sex,TIME_PERIOD,OBS_VALUE,Unit multiplier,Unit of measure,Observation Status,Observation confidentaility,LOWER_BOUND,UPPER_BOUND,WGTD_SAMPL_SIZE,OBS_FOOTNOTE,SERIES_FOOTNOTE,DATA_SOURCE,SOURCE_LINK,CUSTODIAN,Time period activity related to when the data are collected,REF_PERIOD,COVERAGE_TIME,Current age
+Afghanistan,Under-five mortality rate,Female,2021,52.1664425840039,,"Deaths per 1,000 live births",Normal value,,38.219025196261,69.6274226728191,,,,UN_IGME,,,,,,Total
+Afghanistan,Under-five mortality rate,Male,2021,59.1169789690619,,"Deaths per 1,000 live births",Normal value,,43.4104507423924,78.8970017037254,,,,UN_IGME,,,,,,Total
+Afghanistan,Under-five mortality rate,Total,2021,55.6574829074136,,"Deaths per 1,000 live births",Normal value,,40.8300768429803,74.2355739625073,,,,UN_IGME,,,,,,Total
+Albania,Under-five mortality rate,Female,2021,8.72012565746799,,"Deaths per 1,000 live births",Normal value,,8.00117962736805,9.50665922764694,,,,UN_IGME,,,,,,Total
+Albania,Under-five mortality rate,Male,2021,10.1590166807793,,"Deaths per 1,000 live births",Normal value,,9.32866478493633,11.0472888009038,,,,UN_IGME,,,,,,Total
+Albania,Under-five mortality rate,Total,2021,9.45591929580101,,"Deaths per 1,000 live births",Normal value,,8.72479451688121,10.2466415661553,,,,UN_IGME,,,,,,Total
+Algeria,Under-five mortality rate,Female,2021,20.601322365474,,"Deaths per 1,000 live births",Normal value,,18.0743121164909,23.4981213561776,,,,UN_IGME,,,,,,Total
+Algeria,Under-five mortality rate,Male,2021,23.9814427395287,,"Deaths per 1,000 live births",Normal value,,21.1067081017943,27.3407715154779,,,,UN_IGME,,,,,,Total
+Algeria,Under-five mortality rate,Total,2021,22.3352879879139,,"Deaths per 1,000 live births",Normal value,,19.7121805527951,25.3723015673097,,,,UN_IGME,,,,,,Total
+Andorra,Under-five mortality rate,Female,2021,2.39349052505323,,"Deaths per 1,000 live births",Normal value,,0.64031001695513,9.05570272117901,,,,UN_IGME,,,,,,Total
+Andorra,Under-five mortality rate,Male,2021,3.07828146363569,,"Deaths per 1,000 live births",Normal value,,0.82216617140066,11.6052417558524,,,,UN_IGME,,,,,,Total
+Andorra,Under-five mortality rate,Total,2021,2.75636216753319,,"Deaths per 1,000 live births",Normal value,,0.73234665002383,10.4038260416549,,,,UN_IGME,,,,,,Total
+Angola,Under-five mortality rate,Female,2021,63.2850376054786,,"Deaths per 1,000 live births",Normal value,,26.8602118867051,125.243606985321,,,,UN_IGME,,,,,,Total
+Angola,Under-five mortality rate,Male,2021,75.2079070534303,,"Deaths per 1,000 live births",Normal value,,31.7180936897932,148.674427649908,,,,UN_IGME,,,,,,Total
+Angola,Under-five mortality rate,Total,2021,69.4213315853047,,"Deaths per 1,000 live births",Normal value,,29.4128954950604,137.328851947692,,,,UN_IGME,,,,,,Total
+Anguilla,Under-five mortality rate,Female,2021,4.06465625561779,,"Deaths per 1,000 live births",Normal value,,1.91472975452605,8.59033589801164,,,,UN_IGME,,,,,,Total
+Anguilla,Under-five mortality rate,Male,2021,4.00580894048673,,"Deaths per 1,000 live births",Normal value,,1.90559198078036,8.44392159679233,,,,UN_IGME,,,,,,Total
+Anguilla,Under-five mortality rate,Total,2021,4.0450933720228,,"Deaths per 1,000 live births",Normal value,,1.91737848341524,8.5237927598002,,,,UN_IGME,,,,,,Total
+Antigua and Barbuda,Under-five mortality rate,Female,2021,5.64353326129548,,"Deaths per 1,000 live births",Normal value,,3.67468866156071,8.80239788959217,,,,UN_IGME,,,,,,Total
+Antigua and Barbuda,Under-five mortality rate,Male,2021,6.61255031235752,,"Deaths per 1,000 live births",Normal value,,4.30741312652423,10.2246185481451,,,,UN_IGME,,,,,,Total
+Antigua and Barbuda,Under-five mortality rate,Total,2021,6.14456225807726,,"Deaths per 1,000 live births",Normal value,,4.00276019991139,9.52161386947631,,,,UN_IGME,,,,,,Total
+Argentina,Under-five mortality rate,Female,2021,6.03308730378961,,"Deaths per 1,000 live births",Normal value,,5.7189514389981,6.37217268969402,,,,UN_IGME,,,,,,Total
+Argentina,Under-five mortality rate,Male,2021,7.76226482749838,,"Deaths per 1,000 live births",Normal value,,7.36710715280431,8.19827713767805,,,,UN_IGME,,,,,,Total
+Argentina,Under-five mortality rate,Total,2021,6.9181988114155,,"Deaths per 1,000 live births",Normal value,,6.5789879745857,7.28659919239999,,,,UN_IGME,,,,,,Total
+Armenia,Under-five mortality rate,Female,2021,9.62480965606722,,"Deaths per 1,000 live births",Normal value,,7.53860562212899,12.1305139175133,,,,UN_IGME,,,,,,Total
+Armenia,Under-five mortality rate,Male,2021,11.7780861234997,,"Deaths per 1,000 live births",Normal value,,9.23060832571253,14.7643120934795,,,,UN_IGME,,,,,,Total
+Armenia,Under-five mortality rate,Total,2021,10.7211405020471,,"Deaths per 1,000 live births",Normal value,,8.43407690057823,13.4087083630513,,,,UN_IGME,,,,,,Total
+Australia,Under-five mortality rate,Female,2021,3.3734772830822,,"Deaths per 1,000 live births",Normal value,,3.16051471895579,3.59382783313294,,,,UN_IGME,,,,,,Total
+Australia,Under-five mortality rate,Male,2021,4.03608613132952,,"Deaths per 1,000 live births",Normal value,,3.79653609178359,4.29251630596147,,,,UN_IGME,,,,,,Total
+Australia,Under-five mortality rate,Total,2021,3.71192244206751,,"Deaths per 1,000 live births",Normal value,,3.50267243363384,3.93713919097401,,,,UN_IGME,,,,,,Total
+Australia and New Zealand,Under-five mortality rate,Female,2021,3.5378305702668,,"Deaths per 1,000 live births",Normal value,,3.35205166951811,3.73809093541461,,,,UN_IGME,,,,,,Total
+Australia and New Zealand,Under-five mortality rate,Male,2021,4.22709275060185,,"Deaths per 1,000 live births",Normal value,,4.01356189185853,4.45968490908216,,,,UN_IGME,,,,,,Total
+Australia and New Zealand,Under-five mortality rate,Total,2021,3.8907460599007,,"Deaths per 1,000 live births",Normal value,,3.70496091692774,4.09348559253552,,,,UN_IGME,,,,,,Total
+Austria,Under-five mortality rate,Female,2021,3.31114999707124,,"Deaths per 1,000 live births",Normal value,,2.96164167186203,3.70438636034612,,,,UN_IGME,,,,,,Total
+Austria,Under-five mortality rate,Male,2021,3.98792910947114,,"Deaths per 1,000 live births",Normal value,,3.58226752503421,4.46328736376201,,,,UN_IGME,,,,,,Total
+Austria,Under-five mortality rate,Total,2021,3.65759460014716,,"Deaths per 1,000 live births",Normal value,,3.29113042100195,4.07156482122834,,,,UN_IGME,,,,,,Total
+Azerbaijan,Under-five mortality rate,Female,2021,16.7652363710199,,"Deaths per 1,000 live births",Normal value,,9.93699433486066,28.6561100517899,,,,UN_IGME,,,,,,Total
+Azerbaijan,Under-five mortality rate,Male,2021,20.3240160894476,,"Deaths per 1,000 live births",Normal value,,12.0635715686874,34.5413272686536,,,,UN_IGME,,,,,,Total
+Azerbaijan,Under-five mortality rate,Total,2021,18.5862008117312,,"Deaths per 1,000 live births",Normal value,,11.0289843839543,31.5942520807858,,,,UN_IGME,,,,,,Total
+Bahamas,Under-five mortality rate,Female,2021,12.1191741123646,,"Deaths per 1,000 live births",Normal value,,10.3138758441786,14.2076210997422,,,,UN_IGME,,,,,,Total
+Bahamas,Under-five mortality rate,Male,2021,14.1548198694023,,"Deaths per 1,000 live births",Normal value,,12.1058981984272,16.5265728444214,,,,UN_IGME,,,,,,Total
+Bahamas,Under-five mortality rate,Total,2021,13.1591271550021,,"Deaths per 1,000 live births",Normal value,,11.2873145214336,15.3631094717251,,,,UN_IGME,,,,,,Total
+Bahrain,Under-five mortality rate,Female,2021,6.59116367749857,,"Deaths per 1,000 live births",Normal value,,5.59624950520326,7.78091076774791,,,,UN_IGME,,,,,,Total
+Bahrain,Under-five mortality rate,Male,2021,7.22772654250583,,"Deaths per 1,000 live births",Normal value,,6.1553070859533,8.49019353921421,,,,UN_IGME,,,,,,Total
+Bahrain,Under-five mortality rate,Total,2021,6.91564177602543,,"Deaths per 1,000 live births",Normal value,,5.90171004390207,8.11663112847978,,,,UN_IGME,,,,,,Total
+Bangladesh,Under-five mortality rate,Female,2021,25.1976342074457,,"Deaths per 1,000 live births",Normal value,,22.6176136999381,27.9803986065494,,,,UN_IGME,,,,,,Total
+Bangladesh,Under-five mortality rate,Male,2021,29.2297336229778,,"Deaths per 1,000 live births",Normal value,,26.3435788880579,32.4109012114057,,,,UN_IGME,,,,,,Total
+Bangladesh,Under-five mortality rate,Total,2021,27.2736301431953,,"Deaths per 1,000 live births",Normal value,,24.6354308366146,30.1077774777088,,,,UN_IGME,,,,,,Total
+Barbados,Under-five mortality rate,Female,2021,10.8831135795528,,"Deaths per 1,000 live births",Normal value,,7.10702971951475,16.8076976361463,,,,UN_IGME,,,,,,Total
+Barbados,Under-five mortality rate,Male,2021,12.8922538229184,,"Deaths per 1,000 live births",Normal value,,8.46695798911782,19.8037444076739,,,,UN_IGME,,,,,,Total
+Barbados,Under-five mortality rate,Total,2021,11.9135232088411,,"Deaths per 1,000 live births",Normal value,,7.82407592550407,18.270909183282,,,,UN_IGME,,,,,,Total
+Belarus,Under-five mortality rate,Female,2021,2.39090306861179,,"Deaths per 1,000 live births",Normal value,,2.04033432032124,2.75906604882666,,,,UN_IGME,,,,,,Total
+Belarus,Under-five mortality rate,Male,2021,3.04402548437877,,"Deaths per 1,000 live births",Normal value,,2.60269561877468,3.51121643204276,,,,UN_IGME,,,,,,Total
+Belarus,Under-five mortality rate,Total,2021,2.72493958053381,,"Deaths per 1,000 live births",Normal value,,2.33363900399031,3.1347322095193,,,,UN_IGME,,,,,,Total
+Belgium,Under-five mortality rate,Female,2021,3.61320396160373,,"Deaths per 1,000 live births",Normal value,,3.24047928678303,4.02209862477706,,,,UN_IGME,,,,,,Total
+Belgium,Under-five mortality rate,Male,2021,4.56204589963297,,"Deaths per 1,000 live births",Normal value,,4.09781458715198,5.06938281595999,,,,UN_IGME,,,,,,Total
+Belgium,Under-five mortality rate,Total,2021,4.10065151093779,,"Deaths per 1,000 live births",Normal value,,3.69009814103609,4.54328378344069,,,,UN_IGME,,,,,,Total
+Belize,Under-five mortality rate,Female,2021,10.1500758270123,,"Deaths per 1,000 live births",Normal value,,8.16275461721933,12.5306929698411,,,,UN_IGME,,,,,,Total
+Belize,Under-five mortality rate,Male,2021,12.158032777409,,"Deaths per 1,000 live births",Normal value,,9.8122411511414,14.9772029600042,,,,UN_IGME,,,,,,Total
+Belize,Under-five mortality rate,Total,2021,11.1866176974189,,"Deaths per 1,000 live births",Normal value,,9.03914705771552,13.7459829166598,,,,UN_IGME,,,,,,Total
+Benin,Under-five mortality rate,Female,2021,77.3754799029313,,"Deaths per 1,000 live births",Normal value,,62.571325825733,95.5885362409095,,,,UN_IGME,,,,,,Total
+Benin,Under-five mortality rate,Male,2021,89.433122004927,,"Deaths per 1,000 live births",Normal value,,72.5605573288118,110.860909639179,,,,UN_IGME,,,,,,Total
+Benin,Under-five mortality rate,Total,2021,83.5242477514059,,"Deaths per 1,000 live births",Normal value,,67.8433694929657,103.283643754241,,,,UN_IGME,,,,,,Total
+Bhutan,Under-five mortality rate,Female,2021,24.1987571594919,,"Deaths per 1,000 live births",Normal value,,14.2200177694938,40.6501892650174,,,,UN_IGME,,,,,,Total
+Bhutan,Under-five mortality rate,Male,2021,29.0346142985978,,"Deaths per 1,000 live births",Normal value,,17.1900738054705,48.4597158690113,,,,UN_IGME,,,,,,Total
+Bhutan,Under-five mortality rate,Total,2021,26.6874120983707,,"Deaths per 1,000 live births",Normal value,,15.7625420167566,44.4897199417969,,,,UN_IGME,,,,,,Total
+Bolivia (Plurinational State of),Under-five mortality rate,Female,2021,22.2835875192323,,"Deaths per 1,000 live births",Normal value,,15.5841812636316,31.8943030558485,,,,UN_IGME,,,,,,Total
+Bolivia (Plurinational State of),Under-five mortality rate,Male,2021,26.9971735888757,,"Deaths per 1,000 live births",Normal value,,18.9356687009009,38.5210109669828,,,,UN_IGME,,,,,,Total
+Bolivia (Plurinational State of),Under-five mortality rate,Total,2021,24.691937786717,,"Deaths per 1,000 live births",Normal value,,17.3767067154482,35.1638131378521,,,,UN_IGME,,,,,,Total
+Bosnia and Herzegovina,Under-five mortality rate,Female,2021,5.04696675504517,,"Deaths per 1,000 live births",Normal value,,3.88744995908944,6.43506089916865,,,,UN_IGME,,,,,,Total
+Bosnia and Herzegovina,Under-five mortality rate,Male,2021,6.14979766799745,,"Deaths per 1,000 live births",Normal value,,4.75031417486061,7.85266937576775,,,,UN_IGME,,,,,,Total
+Bosnia and Herzegovina,Under-five mortality rate,Total,2021,5.60060015864128,,"Deaths per 1,000 live births",Normal value,,4.35641603601968,7.16778623318777,,,,UN_IGME,,,,,,Total
+Botswana,Under-five mortality rate,Female,2021,31.4049010621195,,"Deaths per 1,000 live births",Normal value,,9.39229108696533,103.880950081302,,,,UN_IGME,,,,,,Total
+Botswana,Under-five mortality rate,Male,2021,38.1612975829064,,"Deaths per 1,000 live births",Normal value,,11.5627313290685,127.461359605681,,,,UN_IGME,,,,,,Total
+Botswana,Under-five mortality rate,Total,2021,34.8694184415765,,"Deaths per 1,000 live births",Normal value,,10.490752972722,115.60530122155,,,,UN_IGME,,,,,,Total
+Brazil,Under-five mortality rate,Female,2021,12.7480764033125,,"Deaths per 1,000 live births",Normal value,,10.7598186114435,15.0786718345775,,,,UN_IGME,,,,,,Total
+Brazil,Under-five mortality rate,Male,2021,15.981067085261,,"Deaths per 1,000 live births",Normal value,,13.5399998418443,18.8095981382042,,,,UN_IGME,,,,,,Total
+Brazil,Under-five mortality rate,Total,2021,14.4109826299979,,"Deaths per 1,000 live births",Normal value,,12.2777262458963,16.8678420160644,,,,UN_IGME,,,,,,Total
+British Virgin Islands,Under-five mortality rate,Female,2021,9.48920790949982,,"Deaths per 1,000 live births",Normal value,,4.31094167852359,20.6305660129716,,,,UN_IGME,,,,,,Total
+British Virgin Islands,Under-five mortality rate,Male,2021,11.3517078445222,,"Deaths per 1,000 live births",Normal value,,5.14706983448095,24.9795393162764,,,,UN_IGME,,,,,,Total
+British Virgin Islands,Under-five mortality rate,Total,2021,10.4628954904319,,"Deaths per 1,000 live births",Normal value,,4.74822897237662,22.7787767019395,,,,UN_IGME,,,,,,Total
+Brunei Darussalam,Under-five mortality rate,Female,2021,10.4058491302151,,"Deaths per 1,000 live births",Normal value,,8.67630399218236,12.5407119781559,,,,UN_IGME,,,,,,Total
+Brunei Darussalam,Under-five mortality rate,Male,2021,12.4844060405258,,"Deaths per 1,000 live births",Normal value,,10.4079454839475,14.9814721015187,,,,UN_IGME,,,,,,Total
+Brunei Darussalam,Under-five mortality rate,Total,2021,11.4759639263964,,"Deaths per 1,000 live births",Normal value,,9.60258403185163,13.7375945595182,,,,UN_IGME,,,,,,Total
+Bulgaria,Under-five mortality rate,Female,2021,5.8033270811837,,"Deaths per 1,000 live births",Normal value,,5.39859640586076,6.24582313324428,,,,UN_IGME,,,,,,Total
+Bulgaria,Under-five mortality rate,Male,2021,6.81704904156914,,"Deaths per 1,000 live births",Normal value,,6.34475510633273,7.31836211361304,,,,UN_IGME,,,,,,Total
+Bulgaria,Under-five mortality rate,Total,2021,6.32427839315881,,"Deaths per 1,000 live births",Normal value,,5.910977896279,6.76116960604968,,,,UN_IGME,,,,,,Total
+Burkina Faso,Under-five mortality rate,Female,2021,77.7230083377764,,"Deaths per 1,000 live births",Normal value,,53.0021770192067,115.125110817865,,,,UN_IGME,,,,,,Total
+Burkina Faso,Under-five mortality rate,Male,2021,87.3766763341341,,"Deaths per 1,000 live births",Normal value,,59.6033522949266,129.100103653519,,,,UN_IGME,,,,,,Total
+Burkina Faso,Under-five mortality rate,Total,2021,82.6075831063427,,"Deaths per 1,000 live births",Normal value,,56.4788532511527,122.089054668821,,,,UN_IGME,,,,,,Total
+Burundi,Under-five mortality rate,Female,2021,47.8529784467525,,"Deaths per 1,000 live births",Normal value,,29.2580581602431,77.5368728463856,,,,UN_IGME,,,,,,Total
+Burundi,Under-five mortality rate,Male,2021,57.1545891207628,,"Deaths per 1,000 live births",Normal value,,35.0727679058056,92.5768228114702,,,,UN_IGME,,,,,,Total
+Burundi,Under-five mortality rate,Total,2021,52.6047596697646,,"Deaths per 1,000 live births",Normal value,,32.261973009643,85.3268759046477,,,,UN_IGME,,,,,,Total
+Cabo Verde,Under-five mortality rate,Female,2021,12.2808669368738,,"Deaths per 1,000 live births",Normal value,,9.38199871965887,15.9567481023241,,,,UN_IGME,,,,,,Total
+Cabo Verde,Under-five mortality rate,Male,2021,14.7849622939526,,"Deaths per 1,000 live births",Normal value,,11.331534653042,19.2703308879528,,,,UN_IGME,,,,,,Total
+Cabo Verde,Under-five mortality rate,Total,2021,13.5488366830773,,"Deaths per 1,000 live births",Normal value,,10.4128903241389,17.6132583275604,,,,UN_IGME,,,,,,Total
+Cambodia,Under-five mortality rate,Female,2021,21.8442099348124,,"Deaths per 1,000 live births",Normal value,,10.7655813065743,44.477164834885,,,,UN_IGME,,,,,,Total
+Cambodia,Under-five mortality rate,Male,2021,27.60402094758,,"Deaths per 1,000 live births",Normal value,,13.5372686417464,56.3662222220681,,,,UN_IGME,,,,,,Total
+Cambodia,Under-five mortality rate,Total,2021,24.7635594961937,,"Deaths per 1,000 live births",Normal value,,12.1877469434566,50.6123520060082,,,,UN_IGME,,,,,,Total
+Cameroon,Under-five mortality rate,Female,2021,63.8374925277036,,"Deaths per 1,000 live births",Normal value,,48.902959729353,81.9943074690126,,,,UN_IGME,,,,,,Total
+Cameroon,Under-five mortality rate,Male,2021,75.3775307740176,,"Deaths per 1,000 live births",Normal value,,58.0421127462558,96.6606010152603,,,,UN_IGME,,,,,,Total
+Cameroon,Under-five mortality rate,Total,2021,69.7880246897051,,"Deaths per 1,000 live births",Normal value,,53.6823246012691,89.293119277384,,,,UN_IGME,,,,,,Total
+Canada,Under-five mortality rate,Female,2021,4.66200340449329,,"Deaths per 1,000 live births",Normal value,,4.43525608238752,4.89213215889887,,,,UN_IGME,,,,,,Total
+Canada,Under-five mortality rate,Male,2021,5.40214478079477,,"Deaths per 1,000 live births",Normal value,,5.14735472363802,5.66461255647072,,,,UN_IGME,,,,,,Total
+Canada,Under-five mortality rate,Total,2021,5.04132393329028,,"Deaths per 1,000 live births",Normal value,,4.82463012983711,5.26166415734768,,,,UN_IGME,,,,,,Total
+Central African Republic,Under-five mortality rate,Female,2021,92.7190974578741,,"Deaths per 1,000 live births",Normal value,,72.7754496692409,118.054447150084,,,,UN_IGME,,,,,,Total
+Central African Republic,Under-five mortality rate,Male,2021,106.738848045924,,"Deaths per 1,000 live births",Normal value,,83.8231093812898,135.286234962092,,,,UN_IGME,,,,,,Total
+Central African Republic,Under-five mortality rate,Total,2021,99.9160796547335,,"Deaths per 1,000 live births",Normal value,,78.5319152053578,126.40284055251,,,,UN_IGME,,,,,,Total
+Central Asia,Under-five mortality rate,Female,2021,15.7643824680952,,"Deaths per 1,000 live births",Normal value,,13.7640137926555,19.2385871934271,,,,UN_IGME,,,,,,Total
+Central Asia,Under-five mortality rate,Male,2021,20.3880883067622,,"Deaths per 1,000 live births",Normal value,,17.8205468102293,24.8338681947493,,,,UN_IGME,,,,,,Total
+Central Asia,Under-five mortality rate,Total,2021,18.1367636370766,,"Deaths per 1,000 live births",Normal value,,15.8623635484012,22.0358928081768,,,,UN_IGME,,,,,,Total
+Central and Southern Asia,Under-five mortality rate,Female,2021,34.3903518046769,,"Deaths per 1,000 live births",Normal value,,31.6261163693961,37.7985117899964,,,,UN_IGME,,,,,,Total
+Central and Southern Asia,Under-five mortality rate,Male,2021,36.2987939187253,,"Deaths per 1,000 live births",Normal value,,33.3168455431056,39.9345338425866,,,,UN_IGME,,,,,,Total
+Central and Southern Asia,Under-five mortality rate,Total,2021,35.3868403416889,,"Deaths per 1,000 live births",Normal value,,32.5613644775139,38.8180495337139,,,,UN_IGME,,,,,,Total
+Chad,Under-five mortality rate,Female,2021,100.143771082894,,"Deaths per 1,000 live births",Normal value,,69.8873442814236,141.752289778702,,,,UN_IGME,,,,,,Total
+Chad,Under-five mortality rate,Male,2021,113.653879607354,,"Deaths per 1,000 live births",Normal value,,79.3120675923487,161.234335132433,,,,UN_IGME,,,,,,Total
+Chad,Under-five mortality rate,Total,2021,107.065477228146,,"Deaths per 1,000 live births",Normal value,,75.0184061022711,151.416513380646,,,,UN_IGME,,,,,,Total
+Chile,Under-five mortality rate,Female,2021,5.99486167628276,,"Deaths per 1,000 live births",Normal value,,5.0115508427317,7.14850533919186,,,,UN_IGME,,,,,,Total
+Chile,Under-five mortality rate,Male,2021,7.09323384767288,,"Deaths per 1,000 live births",Normal value,,5.92897468893676,8.45342784472666,,,,UN_IGME,,,,,,Total
+Chile,Under-five mortality rate,Total,2021,6.55343407510851,,"Deaths per 1,000 live births",Normal value,,5.49043481682754,7.79149660137438,,,,UN_IGME,,,,,,Total
+China,Under-five mortality rate,Female,2021,6.53651930244204,,"Deaths per 1,000 live births",Normal value,,5.83492368888744,7.30577467666334,,,,UN_IGME,,,,,,Total
+China,Under-five mortality rate,Male,2021,7.31213171993359,,"Deaths per 1,000 live births",Normal value,,6.55415417380043,8.15823425607568,,,,UN_IGME,,,,,,Total
+China,Under-five mortality rate,Total,2021,6.93459176132328,,"Deaths per 1,000 live births",Normal value,,6.2387400632002,7.68986449183724,,,,UN_IGME,,,,,,Total
+Colombia,Under-five mortality rate,Female,2021,11.4574886589291,,"Deaths per 1,000 live births",Normal value,,7.46167676333705,17.5199327737471,,,,UN_IGME,,,,,,Total
+Colombia,Under-five mortality rate,Male,2021,14.1637981416231,,"Deaths per 1,000 live births",Normal value,,9.3058615382376,21.5513830626414,,,,UN_IGME,,,,,,Total
+Colombia,Under-five mortality rate,Total,2021,12.8481560013982,,"Deaths per 1,000 live births",Normal value,,8.45136806176771,19.5790791039574,,,,UN_IGME,,,,,,Total
+Comoros,Under-five mortality rate,Female,2021,46.818672158738,,"Deaths per 1,000 live births",Normal value,,34.7961154210256,63.1793631777279,,,,UN_IGME,,,,,,Total
+Comoros,Under-five mortality rate,Male,2021,52.4418996878296,,"Deaths per 1,000 live births",Normal value,,39.0818461670284,70.369740742881,,,,UN_IGME,,,,,,Total
+Comoros,Under-five mortality rate,Total,2021,49.716738229959,,"Deaths per 1,000 live births",Normal value,,37.1936725699731,66.772032409016,,,,UN_IGME,,,,,,Total
+Congo,Under-five mortality rate,Female,2021,38.8806273548077,,"Deaths per 1,000 live births",Normal value,,21.894954321745,70.1644179953433,,,,UN_IGME,,,,,,Total
+Congo,Under-five mortality rate,Male,2021,46.846352494977,,"Deaths per 1,000 live births",Normal value,,26.3225971381906,84.543902990801,,,,UN_IGME,,,,,,Total
+Congo,Under-five mortality rate,Total,2021,42.9678602002796,,"Deaths per 1,000 live births",Normal value,,24.2531894735711,77.4964216424553,,,,UN_IGME,,,,,,Total
+Cook Islands,Under-five mortality rate,Female,2021,7.02143853719116,,"Deaths per 1,000 live births",Normal value,,3.85877894413712,13.0787174009436,,,,UN_IGME,,,,,,Total
+Cook Islands,Under-five mortality rate,Male,2021,7.29287213122416,,"Deaths per 1,000 live births",Normal value,,3.98931757859779,13.6029707263865,,,,UN_IGME,,,,,,Total
+Cook Islands,Under-five mortality rate,Total,2021,7.1650216523676,,"Deaths per 1,000 live births",Normal value,,3.93094188072188,13.3612275395087,,,,UN_IGME,,,,,,Total
+Costa Rica,Under-five mortality rate,Female,2021,7.12942535660764,,"Deaths per 1,000 live births",Normal value,,6.58129396790538,7.71136311093861,,,,UN_IGME,,,,,,Total
+Costa Rica,Under-five mortality rate,Male,2021,8.13307324746388,,"Deaths per 1,000 live births",Normal value,,7.51420169931239,8.7845011277889,,,,UN_IGME,,,,,,Total
+Costa Rica,Under-five mortality rate,Total,2021,7.64750823520297,,"Deaths per 1,000 live births",Normal value,,7.09208708481281,8.22311831625063,,,,UN_IGME,,,,,,Total
+Croatia,Under-five mortality rate,Female,2021,4.25530499274824,,"Deaths per 1,000 live births",Normal value,,3.86871629355062,4.66731888146752,,,,UN_IGME,,,,,,Total
+Croatia,Under-five mortality rate,Male,2021,5.00552126771473,,"Deaths per 1,000 live births",Normal value,,4.56916840285484,5.5017540160197,,,,UN_IGME,,,,,,Total
+Croatia,Under-five mortality rate,Total,2021,4.64006899297498,,"Deaths per 1,000 live births",Normal value,,4.25111680312497,5.0675996988612,,,,UN_IGME,,,,,,Total
+Cuba,Under-five mortality rate,Female,2021,4.47591415280811,,"Deaths per 1,000 live births",Normal value,,3.6265363626042,5.63071233160815,,,,UN_IGME,,,,,,Total
+Cuba,Under-five mortality rate,Male,2021,5.49779275214661,,"Deaths per 1,000 live births",Normal value,,4.47547567546245,6.96535648505889,,,,UN_IGME,,,,,,Total
+Cuba,Under-five mortality rate,Total,2021,5.00163771582935,,"Deaths per 1,000 live births",Normal value,,4.06576414440878,6.307888867859,,,,UN_IGME,,,,,,Total
+Cyprus,Under-five mortality rate,Female,2021,2.55307136399234,,"Deaths per 1,000 live births",Normal value,,1.90300504668222,3.62950524598597,,"Some UN IGME indicators are calculated using population and live birth numbers from the World Population Prospects: The 2022 revision (WPP). WPP numbers for Cyprus refer to the whole country. However, the underlying data sent by the Health Monitoring Unit of the Cyprus Ministry of Health capture only the government-controlled area, whereas according to Eurostat, the population on 1 January 2022 was 904,705 (https://ec.europa.eu/eurostat/databrowser/view/tps00001).",,UN_IGME,,,,,,Total
+Cyprus,Under-five mortality rate,Male,2021,3.0020506034438,,"Deaths per 1,000 live births",Normal value,,2.23815217227848,4.27342660806771,,"Some UN IGME indicators are calculated using population and live birth numbers from the World Population Prospects: The 2022 revision (WPP). WPP numbers for Cyprus refer to the whole country. However, the underlying data sent by the Health Monitoring Unit of the Cyprus Ministry of Health capture only the government-controlled area, whereas according to Eurostat, the population on 1 January 2022 was 904,705 (https://ec.europa.eu/eurostat/databrowser/view/tps00001).",,UN_IGME,,,,,,Total
+Cyprus,Under-five mortality rate,Total,2021,2.78553116094771,,"Deaths per 1,000 live births",Normal value,,2.08007561329031,3.96136455347805,,"Some UN IGME indicators are calculated using population and live birth numbers from the World Population Prospects: The 2022 revision (WPP). WPP numbers for Cyprus refer to the whole country. However, the underlying data sent by the Health Monitoring Unit of the Cyprus Ministry of Health capture only the government-controlled area, whereas according to Eurostat, the population on 1 January 2022 was 904,705 (https://ec.europa.eu/eurostat/databrowser/view/tps00001).",,UN_IGME,,,,,,Total
+Czechia,Under-five mortality rate,Female,2021,2.40824312272641,,"Deaths per 1,000 live births",Normal value,,2.22195701175239,2.60206979396313,,,,UN_IGME,,,,,,Total
+Czechia,Under-five mortality rate,Male,2021,3.08004448171925,,"Deaths per 1,000 live births",Normal value,,2.84742351089621,3.32257220626275,,,,UN_IGME,,,,,,Total
+Czechia,Under-five mortality rate,Total,2021,2.75141439266631,,"Deaths per 1,000 live births",Normal value,,2.55471730944256,2.95395521391842,,,,UN_IGME,,,,,,Total
+Côte d'Ivoire,Under-five mortality rate,Female,2021,66.6977069037406,,"Deaths per 1,000 live births",Normal value,,49.7188945963872,89.6257651990641,,,,UN_IGME,,,,,,Total
+Côte d'Ivoire,Under-five mortality rate,Male,2021,82.5170027928207,,"Deaths per 1,000 live births",Normal value,,61.5808498606888,110.388916501811,,,,UN_IGME,,,,,,Total
+Côte d'Ivoire,Under-five mortality rate,Total,2021,74.7853318096152,,"Deaths per 1,000 live births",Normal value,,55.984980346233,100.061848341059,,,,UN_IGME,,,,,,Total
+Democratic People's Republic of Korea,Under-five mortality rate,Female,2021,13.8691922011298,,"Deaths per 1,000 live births",Normal value,,10.8362263647097,17.9136571691452,,,,UN_IGME,,,,,,Total
+Democratic People's Republic of Korea,Under-five mortality rate,Male,2021,16.875191099125,,"Deaths per 1,000 live births",Normal value,,13.1547531766986,21.5856635385403,,,,UN_IGME,,,,,,Total
+Democratic People's Republic of Korea,Under-five mortality rate,Total,2021,15.4,,"Deaths per 1,000 live births",Normal value,,12.1,19.7,,,,UN_IGME,,,,,,Total
+Democratic Republic of the Congo,Under-five mortality rate,Female,2021,72.0948042097622,,"Deaths per 1,000 live births",Normal value,,42.9425753592788,120.445112011575,,,,UN_IGME,,,,,,Total
+Democratic Republic of the Congo,Under-five mortality rate,Male,2021,85.4897373517839,,"Deaths per 1,000 live births",Normal value,,50.7669716752612,142.676872942831,,,,UN_IGME,,,,,,Total
+Democratic Republic of the Congo,Under-five mortality rate,Total,2021,78.9605382500037,,"Deaths per 1,000 live births",Normal value,,46.935525379436,131.801945365423,,,,UN_IGME,,,,,,Total
+Denmark,Under-five mortality rate,Female,2021,3.26127886562207,,"Deaths per 1,000 live births",Normal value,,2.99555395531427,3.54603472813649,,,,UN_IGME,,,,,,Total
+Denmark,Under-five mortality rate,Male,2021,3.8914595201582,,"Deaths per 1,000 live births",Normal value,,3.58046843641805,4.21925441823326,,,,UN_IGME,,,,,,Total
+Denmark,Under-five mortality rate,Total,2021,3.58422696412028,,"Deaths per 1,000 live births",Normal value,,3.31283055204293,3.87015261389201,,,,UN_IGME,,,,,,Total
+Djibouti,Under-five mortality rate,Female,2021,49.0071148063851,,"Deaths per 1,000 live births",Normal value,,26.9452486764974,87.2612841200515,,,,UN_IGME,,,,,,Total
+Djibouti,Under-five mortality rate,Male,2021,58.8034535226181,,"Deaths per 1,000 live births",Normal value,,32.4457473672285,103.709746697927,,,,UN_IGME,,,,,,Total
+Djibouti,Under-five mortality rate,Total,2021,54.1412333795934,,"Deaths per 1,000 live births",Normal value,,29.8053418285301,95.8282378436558,,,,UN_IGME,,,,,,Total
+Dominica,Under-five mortality rate,Female,2021,33.0674413050593,,"Deaths per 1,000 live births",Normal value,,27.9062969386903,39.3482545741138,,,,UN_IGME,,,,,,Total
+Dominica,Under-five mortality rate,Male,2021,38.5006238664247,,"Deaths per 1,000 live births",Normal value,,32.5679986242599,45.505871735404,,,,UN_IGME,,,,,,Total
+Dominica,Under-five mortality rate,Total,2021,35.8947666426091,,"Deaths per 1,000 live births",Normal value,,30.5017866650998,42.2520617134,,,,UN_IGME,,,,,,Total
+Dominican Republic,Under-five mortality rate,Female,2021,30.0007845483502,,"Deaths per 1,000 live births",Normal value,,22.1260657746528,40.3987120222195,,,,UN_IGME,,,,,,Total
+Dominican Republic,Under-five mortality rate,Male,2021,35.8288715033998,,"Deaths per 1,000 live births",Normal value,,26.3644156158343,48.2281814383815,,,,UN_IGME,,,,,,Total
+Dominican Republic,Under-five mortality rate,Total,2021,33.0028832639473,,"Deaths per 1,000 live births",Normal value,,24.4057160783151,44.308508656793,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Female,2021,13.2893507736418,,"Deaths per 1,000 live births",Normal value,,12.0728979612747,15.0841150610845,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Female,2021,14.0111350601242,,"Deaths per 1,000 live births",,,12.7108914801761,15.9263261747415,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Male,2021,16.012337423395,,"Deaths per 1,000 live births",Normal value,,14.5399901320312,18.1517450610505,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Male,2021,16.85771647417,,"Deaths per 1,000 live births",,,15.2896065094402,19.1332721169918,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Total,2021,14.6939413672718,,"Deaths per 1,000 live births",Normal value,,13.3543319273324,16.6481617828571,,,,UN_IGME,,,,,,Total
+East Asia and Pacific,Under-five mortality rate,Total,2021,15.4808399109577,,"Deaths per 1,000 live births",,,14.0542460655165,17.5657757350635,,,,UN_IGME,,,,,,Total
+Eastern Asia,Under-five mortality rate,Female,2021,6.39613094062408,,"Deaths per 1,000 live births",Normal value,,5.77774565530226,7.08440616913765,,,,UN_IGME,,,,,,Total
+Eastern Asia,Under-five mortality rate,Male,2021,7.21399041897008,,"Deaths per 1,000 live births",Normal value,,6.53901184453257,7.96740532078566,,,,UN_IGME,,,,,,Total
+Eastern Asia,Under-five mortality rate,Total,2021,6.81585598178336,,"Deaths per 1,000 live births",Normal value,,6.20548677428272,7.50117383056182,,,,UN_IGME,,,,,,Total
+Eastern Europe and Central Asia,Under-five mortality rate,Female,2021,9.60823124850685,,"Deaths per 1,000 live births",Normal value,,8.90363862573869,10.834109076292,,,,UN_IGME,,,,,,Total
+Eastern Europe and Central Asia,Under-five mortality rate,Male,2021,11.9817023039881,,"Deaths per 1,000 live births",Normal value,,11.0922077561822,13.523422442814,,,,UN_IGME,,,,,,Total
+Eastern Europe and Central Asia,Under-five mortality rate,Total,2021,10.8223351904363,,"Deaths per 1,000 live births",Normal value,,10.0349200444946,12.208893681389,,,,UN_IGME,,,,,,Total
+Eastern and South-Eastern Asia,Under-five mortality rate,Female,2021,13.1389495896419,,"Deaths per 1,000 live births",Normal value,,11.8796093944933,14.9656668102599,,,,UN_IGME,,,,,,Total
+Eastern and South-Eastern Asia,Under-five mortality rate,Male,2021,15.8423830553506,,"Deaths per 1,000 live births",Normal value,,14.3291396834903,18.0129230131035,,,,UN_IGME,,,,,,Total
+Eastern and South-Eastern Asia,Under-five mortality rate,Total,2021,14.5340781271331,,"Deaths per 1,000 live births",Normal value,,13.1523023845945,16.5253588002689,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Female,2021,48.0257340647552,,"Deaths per 1,000 live births",Normal value,,43.5599956188432,57.6731424161612,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Female,2021,47.9032039972913,,"Deaths per 1,000 live births",,,43.1799454084067,58.0719092237273,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Male,2021,57.3228370844053,,"Deaths per 1,000 live births",Normal value,,52.157689393955,68.5912548782883,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Male,2021,57.1504684713259,,"Deaths per 1,000 live births",,,51.670313887414,69.0079659396216,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Total,2021,52.8178554601783,,"Deaths per 1,000 live births",Normal value,,48.0229396123634,63.2539083454595,,,,UN_IGME,,,,,,Total
+Eastern and Southern Africa,Under-five mortality rate,Total,2021,52.6693502895466,,"Deaths per 1,000 live births",,,47.5491138788429,63.5605022201897,,,,UN_IGME,,,,,,Total
+Ecuador,Under-five mortality rate,Female,2021,11.050012315576,,"Deaths per 1,000 live births",Normal value,,9.61524413495692,12.6407287783141,,,,UN_IGME,,,,,,Total
+Ecuador,Under-five mortality rate,Male,2021,13.7973011058096,,"Deaths per 1,000 live births",Normal value,,12.060575752034,15.7362173194737,,,,UN_IGME,,,,,,Total
+Ecuador,Under-five mortality rate,Total,2021,12.4606221656787,,"Deaths per 1,000 live births",Normal value,,10.9583526685255,14.1560691573621,,,,UN_IGME,,,,,,Total
+Egypt,Under-five mortality rate,Female,2021,17.6642849639444,,"Deaths per 1,000 live births",Normal value,,11.4480147019053,27.3454477249473,,,,UN_IGME,,,,,,Total
+Egypt,Under-five mortality rate,Male,2021,20.1785587637402,,"Deaths per 1,000 live births",Normal value,,13.0330079676671,31.1287270646291,,,,UN_IGME,,,,,,Total
+Egypt,Under-five mortality rate,Total,2021,18.9578330675207,,"Deaths per 1,000 live births",Normal value,,12.2750202542259,29.1465643327819,,,,UN_IGME,,,,,,Total
+El Salvador,Under-five mortality rate,Female,2021,11.1905360736612,,"Deaths per 1,000 live births",Normal value,,6.65836955827655,19.0771393981396,,,,UN_IGME,,,,,,Total
+El Salvador,Under-five mortality rate,Male,2021,13.5948000492826,,"Deaths per 1,000 live births",Normal value,,8.09348323182654,23.1759757645556,,,,UN_IGME,,,,,,Total
+El Salvador,Under-five mortality rate,Total,2021,12.4266889625761,,"Deaths per 1,000 live births",Normal value,,7.4075580178888,21.090694335464,,,,UN_IGME,,,,,,Total
+Equatorial Guinea,Under-five mortality rate,Female,2021,70.4011322956902,,"Deaths per 1,000 live births",Normal value,,38.3357942815899,125.737328163906,,,,UN_IGME,,,,,,Total
+Equatorial Guinea,Under-five mortality rate,Male,2021,82.5881865227651,,"Deaths per 1,000 live births",Normal value,,45.2518301761275,147.42005284084,,,,UN_IGME,,,,,,Total
+Equatorial Guinea,Under-five mortality rate,Total,2021,76.775001310738,,"Deaths per 1,000 live births",Normal value,,41.8241674293299,136.877082707467,,,,UN_IGME,,,,,,Total
+Eritrea,Under-five mortality rate,Female,2021,33.1900483116023,,"Deaths per 1,000 live births",Normal value,,18.2476795175621,60.6461233829667,,,,UN_IGME,,,,,,Total
+Eritrea,Under-five mortality rate,Male,2021,42.6599489914855,,"Deaths per 1,000 live births",Normal value,,23.6166139103816,77.3002244508954,,,,UN_IGME,,,,,,Total
+Eritrea,Under-five mortality rate,Total,2021,38.0915575080149,,"Deaths per 1,000 live births",Normal value,,21.0104092092365,69.4464191367063,,,,UN_IGME,,,,,,Total
+Estonia,Under-five mortality rate,Female,2021,1.79355345664626,,"Deaths per 1,000 live births",Normal value,,1.44673167383465,2.19886968436994,,,,UN_IGME,,,,,,Total
+Estonia,Under-five mortality rate,Male,2021,2.18775680290263,,"Deaths per 1,000 live births",Normal value,,1.78280244064776,2.68160894373373,,,,UN_IGME,,,,,,Total
+Estonia,Under-five mortality rate,Total,2021,1.99958366902816,,"Deaths per 1,000 live births",Normal value,,1.62571657754147,2.43848400801143,,,,UN_IGME,,,,,,Total
+Eswatini,Under-five mortality rate,Female,2021,47.5826842777949,,"Deaths per 1,000 live births",Normal value,,29.0149798977268,78.6249307944683,,,,UN_IGME,,,,,,Total
+Eswatini,Under-five mortality rate,Male,2021,57.3816375789397,,"Deaths per 1,000 live births",Normal value,,34.7875044347911,92.9585467352908,,,,UN_IGME,,,,,,Total
+Eswatini,Under-five mortality rate,Total,2021,52.632628754271,,"Deaths per 1,000 live births",Normal value,,31.9923246551962,85.9622787561832,,,,UN_IGME,,,,,,Total
+Ethiopia,Under-five mortality rate,Female,2021,41.0320439502014,,"Deaths per 1,000 live births",Normal value,,31.7823526888171,53.1260072652947,,,,UN_IGME,,,,,,Total
+Ethiopia,Under-five mortality rate,Male,2021,52.2183009898497,,"Deaths per 1,000 live births",Normal value,,40.6410929815148,67.6016999859425,,,,UN_IGME,,,,,,Total
+Ethiopia,Under-five mortality rate,Total,2021,46.8114674363254,,"Deaths per 1,000 live births",Normal value,,36.3991153633624,60.412419634262,,,,UN_IGME,,,,,,Total
+Europe,Under-five mortality rate,Female,2021,3.98633527680348,,"Deaths per 1,000 live births",Normal value,,3.91160582717686,4.07313123860538,,,,UN_IGME,,,,,,Total
+Europe,Under-five mortality rate,Male,2021,4.81095975983237,,"Deaths per 1,000 live births",Normal value,,4.7241875008711,4.91228190170954,,,,UN_IGME,,,,,,Total
+Europe,Under-five mortality rate,Total,2021,4.40845402672452,,"Deaths per 1,000 live births",Normal value,,4.33318310138047,4.49629543003989,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Female,2021,6.77619881339941,,"Deaths per 1,000 live births",Normal value,,6.38908710210773,7.44772519618705,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Female,2021,11.3300444757398,,"Deaths per 1,000 live births",,,10.3952828493469,12.9657321582336,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Male,2021,8.39134875173797,,"Deaths per 1,000 live births",Normal value,,7.90246669905146,9.24740303583626,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Male,2021,14.136669380292,,"Deaths per 1,000 live births",,,12.9611525214455,16.1978672750273,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Total,2021,7.60196541751113,,"Deaths per 1,000 live births",Normal value,,7.16943244419628,8.36458944501994,,,,UN_IGME,,,,,,Total
+Europe and Central Asia,Under-five mortality rate,Total,2021,12.7657703118974,,"Deaths per 1,000 live births",,,11.7189996141445,14.6253996774779,,,,UN_IGME,,,,,,Total
+Europe and Northern America,Under-five mortality rate,Female,2021,4.57515584826018,,"Deaths per 1,000 live births",Normal value,,4.45770389264228,4.70209958557494,,,,UN_IGME,,,,,,Total
+Europe and Northern America,Under-five mortality rate,Male,2021,5.50496644594956,,"Deaths per 1,000 live births",Normal value,,5.36838716687079,5.6557720471111,,,,UN_IGME,,,,,,Total
+Europe and Northern America,Under-five mortality rate,Total,2021,5.05174444111922,,"Deaths per 1,000 live births",Normal value,,4.93067161029234,5.1815383242472,,,,UN_IGME,,,,,,Total
+Fiji,Under-five mortality rate,Female,2021,25.4199944343991,,"Deaths per 1,000 live births",Normal value,,22.6111293071223,28.5219040151158,,,,UN_IGME,,,,,,Total
+Fiji,Under-five mortality rate,Male,2021,29.9420693600162,,"Deaths per 1,000 live births",Normal value,,26.7092882567506,33.4843614464317,,,,UN_IGME,,,,,,Total
+Fiji,Under-five mortality rate,Total,2021,27.7260308893633,,"Deaths per 1,000 live births",Normal value,,24.8236610308996,30.8808676136454,,,,UN_IGME,,,,,,Total
+Finland,Under-five mortality rate,Female,2021,1.97829951218279,,"Deaths per 1,000 live births",Normal value,,1.77909693181568,2.19915870705594,,,,UN_IGME,,,,,,Total
+Finland,Under-five mortality rate,Male,2021,2.35228851129369,,"Deaths per 1,000 live births",Normal value,,2.12136428146423,2.6202385151048,,,,UN_IGME,,,,,,Total
+Finland,Under-five mortality rate,Total,2021,2.17006942510969,,"Deaths per 1,000 live births",Normal value,,1.96489433212516,2.40483942565979,,,,UN_IGME,,,,,,Total
+France,Under-five mortality rate,Female,2021,3.90755964570175,,"Deaths per 1,000 live births",Normal value,,3.57618619474534,4.26541406288566,,,,UN_IGME,,,,,,Total
+France,Under-five mortality rate,Male,2021,4.78086853558365,,"Deaths per 1,000 live births",Normal value,,4.37660847331336,5.20644689780149,,,,UN_IGME,,,,,,Total
+France,Under-five mortality rate,Total,2021,4.35380298738424,,"Deaths per 1,000 live births",Normal value,,3.996636112136,4.73747998715347,,,,UN_IGME,,,,,,Total
+Gabon,Under-five mortality rate,Female,2021,35.6217607703066,,"Deaths per 1,000 live births",Normal value,,21.3529066620419,59.8437540938187,,,,UN_IGME,,,,,,Total
+Gabon,Under-five mortality rate,Male,2021,43.7389204478191,,"Deaths per 1,000 live births",Normal value,,26.0240681229846,73.9867656437224,,,,UN_IGME,,,,,,Total
+Gabon,Under-five mortality rate,Total,2021,39.7453194289205,,"Deaths per 1,000 live births",Normal value,,23.820109751009,67.2024151985992,,,,UN_IGME,,,,,,Total
+Gambia,Under-five mortality rate,Female,2021,42.9946824414033,,"Deaths per 1,000 live births",Normal value,,33.2454234858178,55.2218605815284,,,,UN_IGME,,,,,,Total
+Gambia,Under-five mortality rate,Male,2021,52.5689953328529,,"Deaths per 1,000 live births",Normal value,,40.67907569646,67.6479692818821,,,,UN_IGME,,,,,,Total
+Gambia,Under-five mortality rate,Total,2021,47.8858576005922,,"Deaths per 1,000 live births",Normal value,,37.1595676188734,61.5131658029272,,,,UN_IGME,,,,,,Total
+Georgia,Under-five mortality rate,Female,2021,8.40078994740165,,"Deaths per 1,000 live births",Normal value,,7.42987112075766,9.50072997298334,,,,UN_IGME,,,,,,Total
+Georgia,Under-five mortality rate,Male,2021,10.5040566616387,,"Deaths per 1,000 live births",Normal value,,9.30019468659777,11.8245327119177,,,,UN_IGME,,,,,,Total
+Georgia,Under-five mortality rate,Total,2021,9.47978137951762,,"Deaths per 1,000 live births",Normal value,,8.4982534704524,10.5907732966995,,,,UN_IGME,,,,,,Total
+Germany,Under-five mortality rate,Female,2021,3.28633320134724,,"Deaths per 1,000 live births",Normal value,,3.16854827537409,3.40551140368623,,,,UN_IGME,,,,,,Total
+Germany,Under-five mortality rate,Male,2021,3.82962496971478,,"Deaths per 1,000 live births",Normal value,,3.69867558918477,3.95955256020038,,,,UN_IGME,,,,,,Total
+Germany,Under-five mortality rate,Total,2021,3.56511870502861,,"Deaths per 1,000 live births",Normal value,,3.45524331497745,3.67251004450391,,,,UN_IGME,,,,,,Total
+Ghana,Under-five mortality rate,Female,2021,39.2623969972268,,"Deaths per 1,000 live births",Normal value,,29.6207815622571,52.3707918259835,,,,UN_IGME,,,,,,Total
+Ghana,Under-five mortality rate,Male,2021,48.4447449180309,,"Deaths per 1,000 live births",Normal value,,36.612065876262,64.7287141509796,,,,UN_IGME,,,,,,Total
+Ghana,Under-five mortality rate,Total,2021,43.9745239455678,,"Deaths per 1,000 live births",Normal value,,33.222029221317,58.5467886450491,,,,UN_IGME,,,,,,Total
+Greece,Under-five mortality rate,Female,2021,3.41072642258362,,"Deaths per 1,000 live births",Normal value,,3.01883280302196,3.85601548408505,,,,UN_IGME,,,,,,Total
+Greece,Under-five mortality rate,Male,2021,4.00226622645582,,"Deaths per 1,000 live births",Normal value,,3.54296000377204,4.5211670550609,,,,UN_IGME,,,,,,Total
+Greece,Under-five mortality rate,Total,2021,3.71409769988622,,"Deaths per 1,000 live births",Normal value,,3.30012342542263,4.17677767515632,,,,UN_IGME,,,,,,Total
+Grenada,Under-five mortality rate,Female,2021,14.8922332833481,,"Deaths per 1,000 live births",Normal value,,12.1345104697659,18.2551807828582,,,,UN_IGME,,,,,,Total
+Grenada,Under-five mortality rate,Male,2021,17.4126742463671,,"Deaths per 1,000 live births",Normal value,,14.2385019632671,21.3884190606431,,,,UN_IGME,,,,,,Total
+Grenada,Under-five mortality rate,Total,2021,16.1806473794793,,"Deaths per 1,000 live births",Normal value,,13.3049770459994,19.7595136768225,,,,UN_IGME,,,,,,Total
+Guatemala,Under-five mortality rate,Female,2021,20.563127632053,,"Deaths per 1,000 live births",Normal value,,14.614760904392,28.4898395523037,,,,UN_IGME,,,,,,Total
+Guatemala,Under-five mortality rate,Male,2021,25.3178193620225,,"Deaths per 1,000 live births",Normal value,,18.1152883446797,34.9619787168725,,,,UN_IGME,,,,,,Total
+Guatemala,Under-five mortality rate,Total,2021,23.0192540977147,,"Deaths per 1,000 live births",Normal value,,16.4907712478005,31.7062359178985,,,,UN_IGME,,,,,,Total
+Guinea,Under-five mortality rate,Female,2021,91.0382197209461,,"Deaths per 1,000 live births",Normal value,,73.8841982531265,113.993130932524,,,,UN_IGME,,,,,,Total
+Guinea,Under-five mortality rate,Male,2021,106.129212745622,,"Deaths per 1,000 live births",Normal value,,86.1887432286271,132.288817605632,,,,UN_IGME,,,,,,Total
+Guinea,Under-five mortality rate,Total,2021,98.726937489028,,"Deaths per 1,000 live births",Normal value,,80.3653265815636,123.075000609289,,,,UN_IGME,,,,,,Total
+Guinea-Bissau,Under-five mortality rate,Female,2021,67.7950787450307,,"Deaths per 1,000 live births",Normal value,,39.1784576525802,112.248278474419,,,,UN_IGME,,,,,,Total
+Guinea-Bissau,Under-five mortality rate,Male,2021,80.2117298958034,,"Deaths per 1,000 live births",Normal value,,46.1303485347653,132.525795592529,,,,UN_IGME,,,,,,Total
+Guinea-Bissau,Under-five mortality rate,Total,2021,74.3053105007151,,"Deaths per 1,000 live births",Normal value,,42.9234580928494,122.433077936316,,,,UN_IGME,,,,,,Total
+Guyana,Under-five mortality rate,Female,2021,24.1071806170156,,"Deaths per 1,000 live births",Normal value,,14.007758485664,41.9566794289109,,,,UN_IGME,,,,,,Total
+Guyana,Under-five mortality rate,Male,2021,31.0264514348329,,"Deaths per 1,000 live births",Normal value,,17.9084597334732,53.9889857365467,,,,UN_IGME,,,,,,Total
+Guyana,Under-five mortality rate,Total,2021,27.6783709289599,,"Deaths per 1,000 live births",Normal value,,16.0364641916824,48.0627369702387,,,,UN_IGME,,,,,,Total
+Haiti,Under-five mortality rate,Female,2021,53.1499464928945,,"Deaths per 1,000 live births",Normal value,,37.0328461033305,76.930361759975,,,,UN_IGME,,,,,,Total
+Haiti,Under-five mortality rate,Male,2021,63.9076129613349,,"Deaths per 1,000 live births",Normal value,,44.760853033019,92.5908352560525,,,,UN_IGME,,,,,,Total
+Haiti,Under-five mortality rate,Total,2021,58.6326839005478,,"Deaths per 1,000 live births",Normal value,,41.1737169679177,84.8368693968258,,,,UN_IGME,,,,,,Total
+Honduras,Under-five mortality rate,Female,2021,14.7291908942459,,"Deaths per 1,000 live births",Normal value,,11.171423862138,19.8966893419568,,,,UN_IGME,,,,,,Total
+Honduras,Under-five mortality rate,Male,2021,18.2948331971432,,"Deaths per 1,000 live births",Normal value,,13.9360381423981,24.7999370897784,,,,UN_IGME,,,,,,Total
+Honduras,Under-five mortality rate,Total,2021,16.5559124513113,,"Deaths per 1,000 live births",Normal value,,12.6333605707971,22.3663759451511,,,,UN_IGME,,,,,,Total
+Hungary,Under-five mortality rate,Female,2021,3.62520108501928,,"Deaths per 1,000 live births",Normal value,,3.20319309232663,4.12046835504244,,,,UN_IGME,,,,,,Total
+Hungary,Under-five mortality rate,Male,2021,4.34424392695183,,"Deaths per 1,000 live births",Normal value,,3.84892809578844,4.93992497842492,,,,UN_IGME,,,,,,Total
+Hungary,Under-five mortality rate,Total,2021,3.99588239164322,,"Deaths per 1,000 live births",Normal value,,3.5413280989848,4.52578521183244,,,,UN_IGME,,,,,,Total
+Iceland,Under-five mortality rate,Female,2021,2.42161986674439,,"Deaths per 1,000 live births",Normal value,,1.86362109284038,3.12156856339351,,,,UN_IGME,,,,,,Total
+Iceland,Under-five mortality rate,Male,2021,2.83535619514952,,"Deaths per 1,000 live births",Normal value,,2.19208814244264,3.65708963281726,,,,UN_IGME,,,,,,Total
+Iceland,Under-five mortality rate,Total,2021,2.63589279244206,,"Deaths per 1,000 live births",Normal value,,2.03882382814578,3.38825201562429,,,,UN_IGME,,,,,,Total
+India,Under-five mortality rate,Female,2021,30.9560091557702,,"Deaths per 1,000 live births",Normal value,,27.8389668890973,34.3589829278422,,,,UN_IGME,,,,,,Total
+India,Under-five mortality rate,Male,2021,30.2791350321289,,"Deaths per 1,000 live births",Normal value,,27.2385301937004,33.5928270311069,,,,UN_IGME,,,,,,Total
+India,Under-five mortality rate,Total,2021,30.6192132677907,,"Deaths per 1,000 live births",Normal value,,27.6336296405163,33.8435835101718,,,,UN_IGME,,,,,,Total
+Indonesia,Under-five mortality rate,Female,2021,19.7951769451549,,"Deaths per 1,000 live births",Normal value,,15.6029146864177,25.519185512992,,,,UN_IGME,,,,,,Total
+Indonesia,Under-five mortality rate,Male,2021,24.4039600001637,,"Deaths per 1,000 live births",Normal value,,19.1204175285459,31.3636560490129,,,,UN_IGME,,,,,,Total
+Indonesia,Under-five mortality rate,Total,2021,22.1734128051776,,"Deaths per 1,000 live births",Normal value,,17.4956029559407,28.4820312883555,,,,UN_IGME,,,,,,Total
+Iran (Islamic Republic of),Under-five mortality rate,Female,2021,11.989366966635,,"Deaths per 1,000 live births",Normal value,,6.74809311686864,21.1656713510478,,,,UN_IGME,,,,,,Total
+Iran (Islamic Republic of),Under-five mortality rate,Male,2021,13.2257559506514,,"Deaths per 1,000 live births",Normal value,,7.41393405257937,23.2943432036405,,,,UN_IGME,,,,,,Total
+Iran (Islamic Republic of),Under-five mortality rate,Total,2021,12.631341972703,,"Deaths per 1,000 live births",Normal value,,7.11451983465392,22.24737538811,,,,UN_IGME,,,,,,Total
+Iraq,Under-five mortality rate,Female,2021,22.1014629712233,,"Deaths per 1,000 live births",Normal value,,16.0584500002786,29.8057341487637,,,,UN_IGME,,,,,,Total
+Iraq,Under-five mortality rate,Male,2021,26.7866148480918,,"Deaths per 1,000 live births",Normal value,,19.5317987774395,36.1303360688326,,,,UN_IGME,,,,,,Total
+Iraq,Under-five mortality rate,Total,2021,24.5216464974502,,"Deaths per 1,000 live births",Normal value,,17.9175097595074,32.9195334306465,,,,UN_IGME,,,,,,Total
+Ireland,Under-five mortality rate,Female,2021,2.86841559173871,,"Deaths per 1,000 live births",Normal value,,2.46147236447287,3.32530064591967,,,,UN_IGME,,,,,,Total
+Ireland,Under-five mortality rate,Male,2021,3.40664707501369,,"Deaths per 1,000 live births",Normal value,,2.92561786472854,3.93762840914518,,,,UN_IGME,,,,,,Total
+Ireland,Under-five mortality rate,Total,2021,3.14568973673693,,"Deaths per 1,000 live births",Normal value,,2.70720845477283,3.62694183404605,,,,UN_IGME,,,,,,Total
+Israel,Under-five mortality rate,Female,2021,3.06714779673662,,"Deaths per 1,000 live births",Normal value,,2.89930508884617,3.24431985595914,,,,UN_IGME,,,,,,Total
+Israel,Under-five mortality rate,Male,2021,3.63182545838538,,"Deaths per 1,000 live births",Normal value,,3.43978806031006,3.83896054199881,,,,UN_IGME,,,,,,Total
+Israel,Under-five mortality rate,Total,2021,3.35659483517686,,"Deaths per 1,000 live births",Normal value,,3.19302312558075,3.52966777459053,,,,UN_IGME,,,,,,Total
+Italy,Under-five mortality rate,Female,2021,2.39995116410633,,"Deaths per 1,000 live births",Normal value,,2.23816612211112,2.56220306380821,,,,UN_IGME,,,,,,Total
+Italy,Under-five mortality rate,Male,2021,2.81791533305719,,"Deaths per 1,000 live births",Normal value,,2.6310858798969,3.00041519178212,,,,UN_IGME,,,,,,Total
+Italy,Under-five mortality rate,Total,2021,2.61414995870203,,"Deaths per 1,000 live births",Normal value,,2.44895108400634,2.77602034638463,,,,UN_IGME,,,,,,Total
+Jamaica,Under-five mortality rate,Female,2021,10.7855958847105,,"Deaths per 1,000 live births",Normal value,,5.51244289948842,21.1553826747833,,,,UN_IGME,,,,,,Total
+Jamaica,Under-five mortality rate,Male,2021,13.9722536873765,,"Deaths per 1,000 live births",Normal value,,7.15350237700084,27.3041841848938,,,,UN_IGME,,,,,,Total
+Jamaica,Under-five mortality rate,Total,2021,12.3986326546788,,"Deaths per 1,000 live births",Normal value,,6.3522036866102,24.2326368894398,,,,UN_IGME,,,,,,Total
+Japan,Under-five mortality rate,Female,2021,2.17987209930305,,"Deaths per 1,000 live births",Normal value,,2.10193381641278,2.26107213940111,,,,UN_IGME,,,,,,Total
+Japan,Under-five mortality rate,Male,2021,2.41897155797405,,"Deaths per 1,000 live births",Normal value,,2.33497468757933,2.50447093360863,,,,UN_IGME,,,,,,Total
+Japan,Under-five mortality rate,Total,2021,2.30237673990839,,"Deaths per 1,000 live births",Normal value,,2.22964678112428,2.37464432137503,,,,UN_IGME,,,,,,Total
+Jordan,Under-five mortality rate,Female,2021,13.0778095468725,,"Deaths per 1,000 live births",Normal value,,9.11590699375679,19.049401116287,,,,UN_IGME,,,,,,Total
+Jordan,Under-five mortality rate,Male,2021,16.0265404137173,,"Deaths per 1,000 live births",Normal value,,11.1496669104195,23.2581027057854,,,,UN_IGME,,,,,,Total
+Jordan,Under-five mortality rate,Total,2021,14.5989662174298,,"Deaths per 1,000 live births",Normal value,,10.1965154569493,21.2336228881875,,,,UN_IGME,,,,,,Total
+Kazakhstan,Under-five mortality rate,Female,2021,8.93546616943397,,"Deaths per 1,000 live births",Normal value,,8.39122885986747,9.5003163117882,,,,UN_IGME,,,,,,Total
+Kazakhstan,Under-five mortality rate,Male,2021,11.54799696157,,"Deaths per 1,000 live births",Normal value,,10.9536835959264,12.1601758229652,,,,UN_IGME,,,,,,Total
+Kazakhstan,Under-five mortality rate,Total,2021,10.2742877972853,,"Deaths per 1,000 live births",Normal value,,9.92905605344346,10.6307535677587,,,,UN_IGME,,,,,,Total
+Kenya,Under-five mortality rate,Female,2021,33.7103829695864,,"Deaths per 1,000 live births",Normal value,,27.1428850436727,41.7899240961964,,,,UN_IGME,,,,,,Total
+Kenya,Under-five mortality rate,Male,2021,40.4330182941552,,"Deaths per 1,000 live births",Normal value,,32.6894048867389,50.1273916901444,,,,UN_IGME,,,,,,Total
+Kenya,Under-five mortality rate,Total,2021,37.1526224018215,,"Deaths per 1,000 live births",Normal value,,30.0691434576193,45.9494799102417,,,,UN_IGME,,,,,,Total
+Kiribati,Under-five mortality rate,Female,2021,43.5846520318548,,"Deaths per 1,000 live births",Normal value,,23.0376845258063,81.4076497137102,,,,UN_IGME,,,,,,Total
+Kiribati,Under-five mortality rate,Male,2021,52.4835510339364,,"Deaths per 1,000 live births",Normal value,,27.8977681842637,97.8982310288803,,,,UN_IGME,,,,,,Total
+Kiribati,Under-five mortality rate,Total,2021,48.2291073357493,,"Deaths per 1,000 live births",Normal value,,25.533256669977,89.7228957645324,,,,UN_IGME,,,,,,Total
+Kosovo,Under-five mortality rate,Female,2021,9.23606172169661,,"Deaths per 1,000 live births",Normal value,,7.96218788683937,10.6346796663242,,All references to Kosovo in the UN IGME estimates should be understood to be in the context of United Nations Security Council resolution 1244 (1999). ,,UN_IGME,,,,,,Total
+Kosovo,Under-five mortality rate,Male,2021,10.6954329604555,,"Deaths per 1,000 live births",Normal value,,9.28833732632496,12.2700390811574,,All references to Kosovo in the UN IGME estimates should be understood to be in the context of United Nations Security Council resolution 1244 (1999). ,,UN_IGME,,,,,,Total
+Kosovo,Under-five mortality rate,Total,2021,9.98245453422453,,"Deaths per 1,000 live births",Normal value,,8.70663466007766,11.4105776543925,,All references to Kosovo in the UN IGME estimates should be understood to be in the context of United Nations Security Council resolution 1244 (1999). ,,UN_IGME,,,,,,Total
+Kuwait,Under-five mortality rate,Female,2021,7.88172708771386,,"Deaths per 1,000 live births",Normal value,,7.07111596488328,8.77086481728666,,,,UN_IGME,,,,,,Total
+Kuwait,Under-five mortality rate,Male,2021,9.53289515529493,,"Deaths per 1,000 live births",Normal value,,8.57633007172204,10.5957942057267,,,,UN_IGME,,,,,,Total
+Kuwait,Under-five mortality rate,Total,2021,8.73375463107735,,"Deaths per 1,000 live births",Normal value,,7.87412085311035,9.66377489540523,,,,UN_IGME,,,,,,Total
+Kyrgyzstan,Under-five mortality rate,Female,2021,15.4266557025496,,"Deaths per 1,000 live births",Normal value,,14.4241113923962,16.5370275462384,,,,UN_IGME,,,,,,Total
+Kyrgyzstan,Under-five mortality rate,Male,2021,19.2898324059616,,"Deaths per 1,000 live births",Normal value,,18.2256057819235,20.5037220004853,,,,UN_IGME,,,,,,Total
+Kyrgyzstan,Under-five mortality rate,Total,2021,17.3999754617734,,"Deaths per 1,000 live births",Normal value,,16.7325135533636,18.2533604144515,,,,UN_IGME,,,,,,Total
+Landlocked developing countries (LLDCs),Under-five mortality rate,Female,2021,51.28620689194,,"Deaths per 1,000 live births",Normal value,,47.7846277686114,57.7763048966859,,,,UN_IGME,,,,,,Total
+Landlocked developing countries (LLDCs),Under-five mortality rate,Male,2021,59.8902036303023,,"Deaths per 1,000 live births",Normal value,,55.8329044348582,67.4391968598247,,,,UN_IGME,,,,,,Total
+Landlocked developing countries (LLDCs),Under-five mortality rate,Total,2021,55.7039454192587,,"Deaths per 1,000 live births",Normal value,,51.9268981240868,62.7154581466871,,,,UN_IGME,,,,,,Total
+Lao People's Democratic Republic,Under-five mortality rate,Female,2021,37.8148500071401,,"Deaths per 1,000 live births",Normal value,,25.9440344896794,54.2684347853997,,,,UN_IGME,,,,,,Total
+Lao People's Democratic Republic,Under-five mortality rate,Male,2021,46.8881410206468,,"Deaths per 1,000 live births",Normal value,,32.1559174106222,66.8542062047265,,,,UN_IGME,,,,,,Total
+Lao People's Democratic Republic,Under-five mortality rate,Total,2021,42.5099211722232,,"Deaths per 1,000 live births",Normal value,,29.1625560699803,60.5892368715799,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Female,2021,14.2814668464019,,"Deaths per 1,000 live births",Normal value,,13.4123778304276,15.7817839881693,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Female,2021,14.2825161981954,,"Deaths per 1,000 live births",,,13.4128705855954,15.7840687323761,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Female,2021,14.2814668464019,,"Deaths per 1,000 live births",Normal value,,13.4123778304276,15.7817839881693,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Male,2021,17.465411905485,,"Deaths per 1,000 live births",Normal value,,16.4195616835628,19.2703788674928,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Male,2021,17.4669952889499,,"Deaths per 1,000 live births",,,16.4218406910917,19.2720424908377,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Male,2021,17.465411905485,,"Deaths per 1,000 live births",Normal value,,16.4195616835628,19.2703788674928,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Total,2021,15.9176437877963,,"Deaths per 1,000 live births",Normal value,,14.9767177204395,17.5526066540991,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Total,2021,15.9189727641192,,"Deaths per 1,000 live births",,,14.9781360845752,17.5556389373425,,,,UN_IGME,,,,,,Total
+Latin America and the Caribbean,Under-five mortality rate,Total,2021,15.9176437877963,,"Deaths per 1,000 live births",Normal value,,14.9767177204395,17.5526066540991,,,,UN_IGME,,,,,,Total
+Latvia,Under-five mortality rate,Female,2021,3.37150894440106,,"Deaths per 1,000 live births",Normal value,,2.89477404011204,3.9508146867905,,,,UN_IGME,,,,,,Total
+Latvia,Under-five mortality rate,Male,2021,3.97293729015297,,"Deaths per 1,000 live births",Normal value,,3.41670812743737,4.65070731878813,,,,UN_IGME,,,,,,Total
+Latvia,Under-five mortality rate,Total,2021,3.67959788197295,,"Deaths per 1,000 live births",Normal value,,3.17470694501908,4.29697606026089,,,,UN_IGME,,,,,,Total
+Least developed countries,Under-five mortality rate,Female,2021,56.388315483807,,"Deaths per 1,000 live births",Normal value,,52.3485307538516,65.8651437377379,,,,UN_IGME,,,,,,Total
+Least developed countries,Under-five mortality rate,Male,2021,65.848627937588,,"Deaths per 1,000 live births",Normal value,,61.1891703157851,76.8076528181424,,,,UN_IGME,,,,,,Total
+Least developed countries,Under-five mortality rate,Total,2021,61.2412126125657,,"Deaths per 1,000 live births",Normal value,,56.9148132585859,71.4771996619621,,,,UN_IGME,,,,,,Total
+Lebanon,Under-five mortality rate,Female,2021,7.73674684181255,,"Deaths per 1,000 live births",Normal value,,6.24236265749418,9.56128359751265,,,,UN_IGME,,,,,,Total
+Lebanon,Under-five mortality rate,Male,2021,8.70580587921833,,"Deaths per 1,000 live births",Normal value,,7.04621570758939,10.7626847787829,,,,UN_IGME,,,,,,Total
+Lebanon,Under-five mortality rate,Total,2021,8.23884045598351,,"Deaths per 1,000 live births",Normal value,,6.70167215580236,10.1354200553918,,,,UN_IGME,,,,,,Total
+Lesotho,Under-five mortality rate,Female,2021,66.1355995852879,,"Deaths per 1,000 live births",Normal value,,45.727802519386,97.6802237020738,,,,UN_IGME,,,,,,Total
+Lesotho,Under-five mortality rate,Male,2021,79.3248096343809,,"Deaths per 1,000 live births",Normal value,,55.0899174934007,117.733033394577,,,,UN_IGME,,,,,,Total
+Lesotho,Under-five mortality rate,Total,2021,72.9253588878988,,"Deaths per 1,000 live births",Normal value,,50.6025442449259,107.882256612769,,,,UN_IGME,,,,,,Total
+Liberia,Under-five mortality rate,Female,2021,69.9468507559318,,"Deaths per 1,000 live births",Normal value,,51.4616660558835,96.2014228841052,,,,UN_IGME,,,,,,Total
+Liberia,Under-five mortality rate,Male,2021,81.8933067094712,,"Deaths per 1,000 live births",Normal value,,60.254934104506,112.24385368553,,,,UN_IGME,,,,,,Total
+Liberia,Under-five mortality rate,Total,2021,76.0401710938254,,"Deaths per 1,000 live births",Normal value,,56.1372442053342,104.237859465353,,,,UN_IGME,,,,,,Total
+Libya,Under-five mortality rate,Female,2021,9.71220940945498,,"Deaths per 1,000 live births",Normal value,,5.45354790716022,17.048961909936,,,,UN_IGME,,,,,,Total
+Libya,Under-five mortality rate,Male,2021,11.7708258009292,,"Deaths per 1,000 live births",Normal value,,6.67634938783421,20.6332649436907,,,,UN_IGME,,,,,,Total
+Libya,Under-five mortality rate,Total,2021,10.7659289074167,,"Deaths per 1,000 live births",Normal value,,6.10075975490964,18.8381306810033,,,,UN_IGME,,,,,,Total
+Lithuania,Under-five mortality rate,Female,2021,3.00633994983356,,"Deaths per 1,000 live births",Normal value,,2.57327480242103,3.5002786321777,,,,UN_IGME,,,,,,Total
+Lithuania,Under-five mortality rate,Male,2021,3.60241130468591,,"Deaths per 1,000 live births",Normal value,,3.09303476142019,4.18580791251745,,,,UN_IGME,,,,,,Total
+Lithuania,Under-five mortality rate,Total,2021,3.30875521667968,,"Deaths per 1,000 live births",Normal value,,2.84821463728868,3.83067326447362,,,,UN_IGME,,,,,,Total
+Luxembourg,Under-five mortality rate,Female,2021,2.4715146089766,,"Deaths per 1,000 live births",Normal value,,1.88868351938599,3.2503962162366,,,,UN_IGME,,,,,,Total
+Luxembourg,Under-five mortality rate,Male,2021,2.98359622245396,,"Deaths per 1,000 live births",Normal value,,2.27526279637065,3.91658718390596,,,,UN_IGME,,,,,,Total
+Luxembourg,Under-five mortality rate,Total,2021,2.73492408300199,,"Deaths per 1,000 live births",Normal value,,2.0917050481824,3.57855148819705,,,,UN_IGME,,,,,,Total
+Madagascar,Under-five mortality rate,Female,2021,60.5555851886205,,"Deaths per 1,000 live births",Normal value,,50.9284259601773,73.3725627274916,,,,UN_IGME,,,,,,Total
+Madagascar,Under-five mortality rate,Male,2021,71.3704296109688,,"Deaths per 1,000 live births",Normal value,,59.9875776388295,86.3004710804221,,,,UN_IGME,,,,,,Total
+Madagascar,Under-five mortality rate,Total,2021,66.002997728841,,"Deaths per 1,000 live births",Normal value,,55.7156457846003,79.8243862938505,,,,UN_IGME,,,,,,Total
+Malawi,Under-five mortality rate,Female,2021,37.0628263535574,,"Deaths per 1,000 live births",Normal value,,23.1971343271528,58.2977038250991,,,,UN_IGME,,,,,,Total
+Malawi,Under-five mortality rate,Male,2021,46.3816001602583,,"Deaths per 1,000 live births",Normal value,,29.3101551484195,73.3632858599834,,,,UN_IGME,,,,,,Total
+Malawi,Under-five mortality rate,Total,2021,41.8992842072377,,"Deaths per 1,000 live births",Normal value,,26.3683550181002,66.0002552427326,,,,UN_IGME,,,,,,Total
+Malaysia,Under-five mortality rate,Female,2021,6.88231435767006,,"Deaths per 1,000 live births",Normal value,,6.16103740180907,7.68963171082036,,,,UN_IGME,,,,,,Total
+Malaysia,Under-five mortality rate,Male,2021,8.18767123930481,,"Deaths per 1,000 live births",Normal value,,7.37821926279179,9.10736541380763,,,,UN_IGME,,,,,,Total
+Malaysia,Under-five mortality rate,Total,2021,7.55612752543334,,"Deaths per 1,000 live births",Normal value,,6.836186839416,8.34945642459893,,,,UN_IGME,,,,,,Total
+Maldives,Under-five mortality rate,Female,2021,5.44869160638843,,"Deaths per 1,000 live births",Normal value,,4.57222695930958,6.51780898552932,,,,UN_IGME,,,,,,Total
+Maldives,Under-five mortality rate,Male,2021,6.45871594275356,,"Deaths per 1,000 live births",Normal value,,5.40720992930369,7.7118177588899,,,,UN_IGME,,,,,,Total
+Maldives,Under-five mortality rate,Total,2021,5.96161268466974,,"Deaths per 1,000 live births",Normal value,,5.02165898900852,7.1059672376226,,,,UN_IGME,,,,,,Total
+Mali,Under-five mortality rate,Female,2021,91.9427104071764,,"Deaths per 1,000 live births",Normal value,,73.4117432489291,114.934297447054,,,,UN_IGME,,,,,,Total
+Mali,Under-five mortality rate,Male,2021,102.02640657009,,"Deaths per 1,000 live births",Normal value,,81.5393671571328,127.811541236438,,,,UN_IGME,,,,,,Total
+Mali,Under-five mortality rate,Total,2021,97.0669216012411,,"Deaths per 1,000 live births",Normal value,,77.7280873031479,121.424895495334,,,,UN_IGME,,,,,,Total
+Malta,Under-five mortality rate,Female,2021,5.39951863681831,,"Deaths per 1,000 live births",Normal value,,4.49345271485242,6.46789722792334,,,,UN_IGME,,,,,,Total
+Malta,Under-five mortality rate,Male,2021,6.24053592061216,,"Deaths per 1,000 live births",Normal value,,5.18665999809603,7.47736802384082,,,,UN_IGME,,,,,,Total
+Malta,Under-five mortality rate,Total,2021,5.83200667447653,,"Deaths per 1,000 live births",Normal value,,4.86536918097108,6.95078463381348,,,,UN_IGME,,,,,,Total
+Marshall Islands,Under-five mortality rate,Female,2021,26.1888980605562,,"Deaths per 1,000 live births",Normal value,,15.4573936102271,45.0981275834839,,,,UN_IGME,,,,,,Total
+Marshall Islands,Under-five mortality rate,Male,2021,33.0127848705359,,"Deaths per 1,000 live births",Normal value,,19.4145630989162,56.9842363606265,,,,UN_IGME,,,,,,Total
+Marshall Islands,Under-five mortality rate,Total,2021,29.7274140260065,,"Deaths per 1,000 live births",Normal value,,17.5740687227973,51.0596012381862,,,,UN_IGME,,,,,,Total
+Mauritania,Under-five mortality rate,Female,2021,36.2337805040638,,"Deaths per 1,000 live births",Normal value,,27.6387213673185,47.7275958013561,,,,UN_IGME,,,,,,Total
+Mauritania,Under-five mortality rate,Male,2021,44.5772879195723,,"Deaths per 1,000 live births",Normal value,,34.1150737670876,58.36245450636,,,,UN_IGME,,,,,,Total
+Mauritania,Under-five mortality rate,Total,2021,40.4984611261088,,"Deaths per 1,000 live births",Normal value,,31.0319991144253,52.9583890050515,,,,UN_IGME,,,,,,Total
+Mauritius,Under-five mortality rate,Female,2021,14.8787835552359,,"Deaths per 1,000 live births",Normal value,,12.4052908581861,17.8137023763268,,,,UN_IGME,,,,,,Total
+Mauritius,Under-five mortality rate,Male,2021,18.2715140015596,,"Deaths per 1,000 live births",Normal value,,15.2442760562572,21.8740381471201,,,,UN_IGME,,,,,,Total
+Mauritius,Under-five mortality rate,Total,2021,16.6172073714046,,"Deaths per 1,000 live births",Normal value,,13.912724173004,19.8041917874556,,,,UN_IGME,,,,,,Total
+Mexico,Under-five mortality rate,Female,2021,11.9713384710741,,"Deaths per 1,000 live births",Normal value,,10.1810163591655,14.0401455446733,,,,UN_IGME,,,,,,Total
+Mexico,Under-five mortality rate,Male,2021,14.452557942906,,"Deaths per 1,000 live births",Normal value,,12.2939766517752,16.9364139147854,,,,UN_IGME,,,,,,Total
+Mexico,Under-five mortality rate,Total,2021,13.2407428367407,,"Deaths per 1,000 live births",Normal value,,11.2845071851745,15.5109903562694,,,,UN_IGME,,,,,,Total
+Micronesia (Federated States of),Under-five mortality rate,Female,2021,21.5235747830843,,"Deaths per 1,000 live births",Normal value,,9.5670761866498,46.6776554320467,,,,UN_IGME,,,,,,Total
+Micronesia (Federated States of),Under-five mortality rate,Male,2021,28.0357894827092,,"Deaths per 1,000 live births",Normal value,,12.5932331295187,61.4719225296867,,,,UN_IGME,,,,,,Total
+Micronesia (Federated States of),Under-five mortality rate,Total,2021,24.8502170785152,,"Deaths per 1,000 live births",Normal value,,11.2047731820154,54.042903359268,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Female,2021,20.2514653793846,,"Deaths per 1,000 live births",Normal value,,16.4893459467476,27.7619722756754,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Female,2021,24.6444995823043,,"Deaths per 1,000 live births",,,20.6914631457755,32.2668734076366,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Male,2021,23.5116032565811,,"Deaths per 1,000 live births",Normal value,,19.1051016406524,32.1379414171361,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Male,2021,28.8331324687401,,"Deaths per 1,000 live births",,,24.270306063344,37.6377219774432,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Total,2021,21.8948262324806,,"Deaths per 1,000 live births",Normal value,,17.8372872527077,29.9847871360362,,,,UN_IGME,,,,,,Total
+Middle East and North Africa,Under-five mortality rate,Total,2021,26.7741680415643,,"Deaths per 1,000 live births",,,22.53159868732,34.995090142309,,,,UN_IGME,,,,,,Total
+Monaco,Under-five mortality rate,Female,2021,2.60237040091165,,"Deaths per 1,000 live births",Normal value,,1.63652390356771,4.12256420402524,,,,UN_IGME,,,,,,Total
+Monaco,Under-five mortality rate,Male,2021,3.2257212957414,,"Deaths per 1,000 live births",Normal value,,2.02814744178134,5.09919799282321,,,,UN_IGME,,,,,,Total
+Monaco,Under-five mortality rate,Total,2021,2.92363848437831,,"Deaths per 1,000 live births",Normal value,,1.8379902771527,4.625787849154,,,,UN_IGME,,,,,,Total
+Mongolia,Under-five mortality rate,Female,2021,13.0612910775805,,"Deaths per 1,000 live births",Normal value,,11.9593305760465,14.2677513398662,,,,UN_IGME,,,,,,Total
+Mongolia,Under-five mortality rate,Male,2021,16.3383349548776,,"Deaths per 1,000 live births",Normal value,,15.0086463241328,17.8204889926689,,,,UN_IGME,,,,,,Total
+Mongolia,Under-five mortality rate,Total,2021,14.7343576142453,,"Deaths per 1,000 live births",Normal value,,13.5899371348416,16.0293659212735,,,,UN_IGME,,,,,,Total
+Montenegro,Under-five mortality rate,Female,2021,2.11344170467803,,"Deaths per 1,000 live births",Normal value,,1.72494274534989,2.59419318320119,,,,UN_IGME,,,,,,Total
+Montenegro,Under-five mortality rate,Male,2021,2.40233218450494,,"Deaths per 1,000 live births",Normal value,,1.96427922404378,2.94024488437389,,,,UN_IGME,,,,,,Total
+Montenegro,Under-five mortality rate,Total,2021,2.26293637576634,,"Deaths per 1,000 live births",Normal value,,1.85639329871273,2.76132536384994,,,,UN_IGME,,,,,,Total
+Montserrat,Under-five mortality rate,Female,2021,5.34915851011255,,"Deaths per 1,000 live births",Normal value,,1.98508121675381,14.5354818055544,,,,UN_IGME,,,,,,Total
+Montserrat,Under-five mortality rate,Male,2021,5.19069292504326,,"Deaths per 1,000 live births",Normal value,,1.92000926260867,14.0302136149399,,,,UN_IGME,,,,,,Total
+Montserrat,Under-five mortality rate,Total,2021,5.27353901367182,,"Deaths per 1,000 live births",Normal value,,1.9519286003888,14.2996426042731,,,,UN_IGME,,,,,,Total
+Morocco,Under-five mortality rate,Female,2021,16.1855599342473,,"Deaths per 1,000 live births",Normal value,,11.1764398477967,22.7858133890843,,,,UN_IGME,,,,,,Total
+Morocco,Under-five mortality rate,Male,2021,19.68019663151,,"Deaths per 1,000 live births",Normal value,,13.6366116404923,27.8430665151813,,,,UN_IGME,,,,,,Total
+Morocco,Under-five mortality rate,Total,2021,17.9955702220285,,"Deaths per 1,000 live births",Normal value,,12.468550467512,25.2946911219227,,,,UN_IGME,,,,,,Total
+Mozambique,Under-five mortality rate,Female,2021,64.9309373529789,,"Deaths per 1,000 live births",Normal value,,41.7820525268501,102.368431152973,,UNAIDS estimates for Mozambique were not available at the time of publication.,,UN_IGME,,,,,,Total
+Mozambique,Under-five mortality rate,Male,2021,73.9132174831281,,"Deaths per 1,000 live births",Normal value,,47.8016370332263,117.108431946492,,UNAIDS estimates for Mozambique were not available at the time of publication.,,UN_IGME,,,,,,Total
+Mozambique,Under-five mortality rate,Total,2021,69.5584271639281,,"Deaths per 1,000 live births",Normal value,,44.957204182933,109.657859021174,,UNAIDS estimates for Mozambique were not available at the time of publication.,,UN_IGME,,,,,,Total
+Myanmar,Under-five mortality rate,Female,2021,37.6293685891665,,"Deaths per 1,000 live births",Normal value,,23.936273337988,57.3158486953261,,,,UN_IGME,,,,,,Total
+Myanmar,Under-five mortality rate,Male,2021,45.8107058019471,,"Deaths per 1,000 live births",Normal value,,29.3627540443674,69.9031869206044,,,,UN_IGME,,,,,,Total
+Myanmar,Under-five mortality rate,Total,2021,41.8123689305352,,"Deaths per 1,000 live births",Normal value,,26.7243094560955,63.4651489777041,,,,UN_IGME,,,,,,Total
+Namibia,Under-five mortality rate,Female,2021,35.2882125971423,,"Deaths per 1,000 live births",Normal value,,18.9643552397112,68.2256869149013,,,,UN_IGME,,,,,,Total
+Namibia,Under-five mortality rate,Male,2021,42.6971586324039,,"Deaths per 1,000 live births",Normal value,,22.8991680753913,82.9597833540998,,,,UN_IGME,,,,,,Total
+Namibia,Under-five mortality rate,Total,2021,39.0432989408869,,"Deaths per 1,000 live births",Normal value,,20.9909119830577,75.757698619627,,,,UN_IGME,,,,,,Total
+Nauru,Under-five mortality rate,Female,2021,24.5900867075028,,"Deaths per 1,000 live births",Normal value,,12.5052776666087,47.7670791441563,,,,UN_IGME,,,,,,Total
+Nauru,Under-five mortality rate,Male,2021,30.374201837424,,"Deaths per 1,000 live births",Normal value,,15.4103017872515,58.7250660034308,,,,UN_IGME,,,,,,Total
+Nauru,Under-five mortality rate,Total,2021,27.5944742369079,,"Deaths per 1,000 live births",Normal value,,14.0295107554625,53.135032658174,,,,UN_IGME,,,,,,Total
+Nepal,Under-five mortality rate,Female,2021,24.9951557556497,,"Deaths per 1,000 live births",Normal value,,19.1848961410133,32.8892756371396,,,,UN_IGME,,,,,,Total
+Nepal,Under-five mortality rate,Male,2021,29.2477710061313,,"Deaths per 1,000 live births",Normal value,,22.4702796604731,38.5213461945565,,,,UN_IGME,,,,,,Total
+Nepal,Under-five mortality rate,Total,2021,27.1634685035925,,"Deaths per 1,000 live births",Normal value,,20.9078214314024,35.7154436962395,,,,UN_IGME,,,,,,Total
+Netherlands (Kingdom of the),Under-five mortality rate,Female,2021,3.6615106628797,,"Deaths per 1,000 live births",Normal value,,3.4863853913165,3.85291517711256,,,,UN_IGME,,,,,,Total
+Netherlands (Kingdom of the),Under-five mortality rate,Male,2021,4.42352610059262,,"Deaths per 1,000 live births",Normal value,,4.21659684962929,4.63761343614211,,,,UN_IGME,,,,,,Total
+Netherlands (Kingdom of the),Under-five mortality rate,Total,2021,4.05176192746185,,"Deaths per 1,000 live births",Normal value,,3.88485842200376,4.23166026340753,,,,UN_IGME,,,,,,Total
+New Zealand,Under-five mortality rate,Female,2021,4.30784839915426,,"Deaths per 1,000 live births",Normal value,,3.88828810925299,4.77312417130262,,,,UN_IGME,,,,,,Total
+New Zealand,Under-five mortality rate,Male,2021,5.12611092745195,,"Deaths per 1,000 live births",Normal value,,4.63638986651531,5.6668872307785,,,,UN_IGME,,,,,,Total
+New Zealand,Under-five mortality rate,Total,2021,4.7305393967809,,"Deaths per 1,000 live births",Normal value,,4.29352830691087,5.20245116203458,,,,UN_IGME,,,,,,Total
+Nicaragua,Under-five mortality rate,Female,2021,11.755073335436,,"Deaths per 1,000 live births",Normal value,,10.0990753308543,13.5548704563756,,"The UN IGME estimates are not the official statistics of Nicaragua. The most recent national official estimates of neonatal, infant and under-five mortality rates available to the UN IGME come from the vital registration system for 2020, with a rate of 7.0, 10.7 and 12.6 deaths per 1,000 live births, respectively. Following a request from the Government of Nicaragua and per the objectives of the UN IGME, the UN IGME will continue to assess all data sources in the country relevant to child mortality estimation.",,UN_IGME,,,,,,Total
+Nicaragua,Under-five mortality rate,Male,2021,14.6795138419662,,"Deaths per 1,000 live births",Normal value,,12.6408164762075,16.9026619514737,,"The UN IGME estimates are not the official statistics of Nicaragua. The most recent national official estimates of neonatal, infant and under-five mortality rates available to the UN IGME come from the vital registration system for 2020, with a rate of 7.0, 10.7 and 12.6 deaths per 1,000 live births, respectively. Following a request from the Government of Nicaragua and per the objectives of the UN IGME, the UN IGME will continue to assess all data sources in the country relevant to child mortality estimation.",,UN_IGME,,,,,,Total
+Nicaragua,Under-five mortality rate,Total,2021,13.2554226000777,,"Deaths per 1,000 live births",Normal value,,11.4742838801107,15.1613719160459,,"The UN IGME estimates are not the official statistics of Nicaragua. The most recent national official estimates of neonatal, infant and under-five mortality rates available to the UN IGME come from the vital registration system for 2020, with a rate of 7.0, 10.7 and 12.6 deaths per 1,000 live births, respectively. Following a request from the Government of Nicaragua and per the objectives of the UN IGME, the UN IGME will continue to assess all data sources in the country relevant to child mortality estimation.",,UN_IGME,,,,,,Total
+Niger,Under-five mortality rate,Female,2021,111.241804659865,,"Deaths per 1,000 live births",Normal value,,89.388569804921,139.64576045858,,,,UN_IGME,,,,,,Total
+Niger,Under-five mortality rate,Male,2021,118.84238025045,,"Deaths per 1,000 live births",Normal value,,95.4106885626924,149.038262800314,,,,UN_IGME,,,,,,Total
+Niger,Under-five mortality rate,Total,2021,115.151880229213,,"Deaths per 1,000 live births",Normal value,,92.6635460195075,144.347786486238,,,,UN_IGME,,,,,,Total
+Nigeria,Under-five mortality rate,Female,2021,104.290278554457,,"Deaths per 1,000 live births",Normal value,,76.8443660327596,144.547938104842,,,,UN_IGME,,,,,,Total
+Nigeria,Under-five mortality rate,Male,2021,116.85317990161,,"Deaths per 1,000 live births",Normal value,,86.0504222789785,161.054541321257,,,,UN_IGME,,,,,,Total
+Nigeria,Under-five mortality rate,Total,2021,110.819276676609,,"Deaths per 1,000 live births",Normal value,,81.6787958338797,152.471489473417,,,,UN_IGME,,,,,,Total
+Niue,Under-five mortality rate,Female,2021,21.558500977561,,"Deaths per 1,000 live births",Normal value,,9.13447572155709,51.4987355728015,,,,UN_IGME,,,,,,Total
+Niue,Under-five mortality rate,Male,2021,26.6267004548545,,"Deaths per 1,000 live births",Normal value,,11.4093135432118,63.5279835704865,,,,UN_IGME,,,,,,Total
+Niue,Under-five mortality rate,Total,2021,24.1314546283105,,"Deaths per 1,000 live births",Normal value,,10.3379229067866,57.3729145690081,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Female,2021,5.56089954134109,,"Deaths per 1,000 live births",Normal value,,5.27260990316424,5.86018796748385,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Female,2021,5.56089954134109,,"Deaths per 1,000 live births",Normal value,,5.27260990316424,5.86018796748385,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Male,2021,6.67635719185089,,"Deaths per 1,000 live births",Normal value,,6.33535735393431,7.03574836132256,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Male,2021,6.67635719185089,,"Deaths per 1,000 live births",Normal value,,6.33535735393431,7.03574836132256,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Total,2021,6.13323152531731,,"Deaths per 1,000 live births",Normal value,,5.83125321439021,6.4487327353931,,,,UN_IGME,,,,,,Total
+North America,Under-five mortality rate,Total,2021,6.13323152531731,,"Deaths per 1,000 live births",Normal value,,5.83125321439021,6.4487327353931,,,,UN_IGME,,,,,,Total
+North Macedonia,Under-five mortality rate,Female,2021,5.01190615349659,,"Deaths per 1,000 live births",Normal value,,4.0180595927497,6.35283923688202,,,,UN_IGME,,,,,,Total
+North Macedonia,Under-five mortality rate,Male,2021,5.59974344352337,,"Deaths per 1,000 live births",Normal value,,4.51309025068944,7.12488760607665,,,,UN_IGME,,,,,,Total
+North Macedonia,Under-five mortality rate,Total,2021,5.31060293316072,,"Deaths per 1,000 live births",Normal value,,4.28500684039903,6.72932827945191,,,,UN_IGME,,,,,,Total
+Northern Africa,Under-five mortality rate,Female,2021,26.04017862314,,"Deaths per 1,000 live births",Normal value,,21.0882088644186,33.4791616734815,,,,UN_IGME,,,,,,Total
+Northern Africa,Under-five mortality rate,Male,2021,30.6513563939238,,"Deaths per 1,000 live births",Normal value,,24.8208495347666,39.4002978825088,,,,UN_IGME,,,,,,Total
+Northern Africa,Under-five mortality rate,Total,2021,28.4200489525505,,"Deaths per 1,000 live births",Normal value,,23.0297554156079,36.523633237435,,,,UN_IGME,,,,,,Total
+Northern Africa and Western Asia,Under-five mortality rate,Female,2021,23.6151381379357,,"Deaths per 1,000 live births",Normal value,,19.7811600294287,30.8564246072974,,,,UN_IGME,,,,,,Total
+Northern Africa and Western Asia,Under-five mortality rate,Male,2021,27.6912159540877,,"Deaths per 1,000 live births",Normal value,,23.2432321143955,36.0680235032805,,,,UN_IGME,,,,,,Total
+Northern Africa and Western Asia,Under-five mortality rate,Total,2021,25.6867398333559,,"Deaths per 1,000 live births",Normal value,,21.5801521959521,33.5138977982138,,,,UN_IGME,,,,,,Total
+Norway,Under-five mortality rate,Female,2021,1.95233348319287,,"Deaths per 1,000 live births",Normal value,,1.75315558667055,2.17324782198924,,,,UN_IGME,,,,,,Total
+Norway,Under-five mortality rate,Male,2021,2.37832907578534,,"Deaths per 1,000 live births",Normal value,,2.1409103365971,2.64285473646652,,,,UN_IGME,,,,,,Total
+Norway,Under-five mortality rate,Total,2021,2.1707294603067,,"Deaths per 1,000 live births",Normal value,,1.96161686895837,2.4037747982225,,,,UN_IGME,,,,,,Total
+Oceania,Under-five mortality rate,Female,2021,18.4713212339414,,"Deaths per 1,000 live births",Normal value,,13.7632384376002,25.560987230984,,,,UN_IGME,,,,,,Total
+Oceania,Under-five mortality rate,Male,2021,22.0095618977317,,"Deaths per 1,000 live births",Normal value,,16.4188408175715,30.260428663789,,,,UN_IGME,,,,,,Total
+Oceania,Under-five mortality rate,Total,2021,20.2698071404235,,"Deaths per 1,000 live births",Normal value,,15.1593086583394,27.9092264484139,,,,UN_IGME,,,,,,Total
+"Oceania, excluding Australia and New Zealand",Under-five mortality rate,Female,2021,35.5822784210409,,"Deaths per 1,000 live births",Normal value,,25.5106107058114,50.7802965038371,,,,UN_IGME,,,,,,Total
+"Oceania, excluding Australia and New Zealand",Under-five mortality rate,Male,2021,42.0200517650047,,"Deaths per 1,000 live births",Normal value,,30.1339078018883,59.4555016149367,,,,UN_IGME,,,,,,Total
+"Oceania, excluding Australia and New Zealand",Under-five mortality rate,Total,2021,38.8632671191581,,"Deaths per 1,000 live births",Normal value,,27.9868209413231,55.0893891117111,,,,UN_IGME,,,,,,Total
+Oman,Under-five mortality rate,Female,2021,9.16919004612128,,"Deaths per 1,000 live births",Normal value,,8.16097404385235,10.2850326024718,,,,UN_IGME,,,,,,Total
+Oman,Under-five mortality rate,Male,2021,11.0543074923864,,"Deaths per 1,000 live births",Normal value,,9.87539332339659,12.3472930921804,,,,UN_IGME,,,,,,Total
+Oman,Under-five mortality rate,Total,2021,10.139519977375,,"Deaths per 1,000 live births",Normal value,,9.14101273631614,11.2065004004827,,,,UN_IGME,,,,,,Total
+Pakistan,Under-five mortality rate,Female,2021,58.8329154924084,,"Deaths per 1,000 live births",Normal value,,46.8344835803505,73.4214405104051,,,,UN_IGME,,,,,,Total
+Pakistan,Under-five mortality rate,Male,2021,67.542516543118,,"Deaths per 1,000 live births",Normal value,,53.8825358829546,84.5797270112927,,,,UN_IGME,,,,,,Total
+Pakistan,Under-five mortality rate,Total,2021,63.3325517355881,,"Deaths per 1,000 live births",Normal value,,50.5977016658983,79.0234388780309,,,,UN_IGME,,,,,,Total
+Palau,Under-five mortality rate,Female,2021,14.4393731045797,,"Deaths per 1,000 live births",Normal value,,6.89108759671551,30.8096654201025,,,,UN_IGME,,,,,,Total
+Palau,Under-five mortality rate,Male,2021,17.9650929149726,,"Deaths per 1,000 live births",Normal value,,8.5411584908167,38.1964328376661,,,,UN_IGME,,,,,,Total
+Palau,Under-five mortality rate,Total,2021,16.2452399328571,,"Deaths per 1,000 live births",Normal value,,7.75740922988576,34.4501292861031,,,,UN_IGME,,,,,,Total
+Panama,Under-five mortality rate,Female,2021,12.4525260211997,,"Deaths per 1,000 live births",Normal value,,6.20943491059758,25.1710735333739,,,,UN_IGME,,,,,,Total
+Panama,Under-five mortality rate,Male,2021,15.2370479707771,,"Deaths per 1,000 live births",Normal value,,7.67866845096274,31.0016656674068,,,,UN_IGME,,,,,,Total
+Panama,Under-five mortality rate,Total,2021,13.8704684737063,,"Deaths per 1,000 live births",Normal value,,6.94421869084827,28.0254323226436,,,,UN_IGME,,,,,,Total
+Papua New Guinea,Under-five mortality rate,Female,2021,39.2509766448429,,"Deaths per 1,000 live births",Normal value,,26.429997699952,57.9671980880357,,,,UN_IGME,,,,,,Total
+Papua New Guinea,Under-five mortality rate,Male,2021,46.2416050546319,,"Deaths per 1,000 live births",Normal value,,31.0328255096093,67.922064713456,,,,UN_IGME,,,,,,Total
+Papua New Guinea,Under-five mortality rate,Total,2021,42.8118988015915,,"Deaths per 1,000 live births",Normal value,,28.8401446370823,62.8986188676004,,,,UN_IGME,,,,,,Total
+Paraguay,Under-five mortality rate,Female,2021,16.3227583574719,,"Deaths per 1,000 live births",Normal value,,7.85426937175704,34.6812490318014,,,,UN_IGME,,,,,,Total
+Paraguay,Under-five mortality rate,Male,2021,19.9212744911267,,"Deaths per 1,000 live births",Normal value,,9.69839485842705,42.2502911662281,,,,UN_IGME,,,,,,Total
+Paraguay,Under-five mortality rate,Total,2021,18.1574925234713,,"Deaths per 1,000 live births",Normal value,,8.81344946648747,38.4171651416624,,,,UN_IGME,,,,,,Total
+Peru,Under-five mortality rate,Female,2021,12.7545858508796,,"Deaths per 1,000 live births",Normal value,,10.0943063149264,16.3294618650927,,,,UN_IGME,,,,,,Total
+Peru,Under-five mortality rate,Male,2021,15.4166110982834,,"Deaths per 1,000 live births",Normal value,,12.2568606691061,19.7343421228561,,,,UN_IGME,,,,,,Total
+Peru,Under-five mortality rate,Total,2021,14.1226088375446,,"Deaths per 1,000 live births",Normal value,,11.22988117744,17.9932789754661,,,,UN_IGME,,,,,,Total
+Philippines,Under-five mortality rate,Female,2021,23.0182700448114,,"Deaths per 1,000 live births",Normal value,,16.1428257143185,32.7269213724973,,,,UN_IGME,,,,,,Total
+Philippines,Under-five mortality rate,Male,2021,28.3335432283684,,"Deaths per 1,000 live births",Normal value,,19.9273767930357,40.1479498797549,,,,UN_IGME,,,,,,Total
+Philippines,Under-five mortality rate,Total,2021,25.7395306143186,,"Deaths per 1,000 live births",Normal value,,18.1904296000909,36.4590536505935,,,,UN_IGME,,,,,,Total
+Poland,Under-five mortality rate,Female,2021,3.94743649292528,,"Deaths per 1,000 live births",Normal value,,3.78628599447533,4.11651160450119,,,,UN_IGME,,,,,,Total
+Poland,Under-five mortality rate,Male,2021,4.72600272860076,,"Deaths per 1,000 live births",Normal value,,4.53965666888849,4.91721048074492,,,,UN_IGME,,,,,,Total
+Poland,Under-five mortality rate,Total,2021,4.34660521656176,,"Deaths per 1,000 live births",Normal value,,4.19486171957215,4.50717449290807,,,,UN_IGME,,,,,,Total
+Portugal,Under-five mortality rate,Female,2021,2.80089156562284,,"Deaths per 1,000 live births",Normal value,,2.56744209627929,3.04967272820854,,,,UN_IGME,,,,,,Total
+Portugal,Under-five mortality rate,Male,2021,3.38256880429699,,"Deaths per 1,000 live births",Normal value,,3.10650222472571,3.670177131658,,,,UN_IGME,,,,,,Total
+Portugal,Under-five mortality rate,Total,2021,3.09848000352583,,"Deaths per 1,000 live births",Normal value,,2.85923586440372,3.35110775649762,,,,UN_IGME,,,,,,Total
+Qatar,Under-five mortality rate,Female,2021,4.96542663395566,,"Deaths per 1,000 live births",Normal value,,4.3838484479194,5.61240948609501,,,,UN_IGME,,,,,,Total
+Qatar,Under-five mortality rate,Male,2021,5.63160894811867,,"Deaths per 1,000 live births",Normal value,,4.99675288362277,6.34693306538649,,,,UN_IGME,,,,,,Total
+Qatar,Under-five mortality rate,Total,2021,5.30610116931939,,"Deaths per 1,000 live births",Normal value,,4.72068101035266,5.96186652641406,,,,UN_IGME,,,,,,Total
+Republic of Korea,Under-five mortality rate,Female,2021,2.61473528466268,,"Deaths per 1,000 live births",Normal value,,2.48828369256855,2.74844703442283,,,,UN_IGME,,,,,,Total
+Republic of Korea,Under-five mortality rate,Male,2021,3.15057530335016,,"Deaths per 1,000 live births",Normal value,,3.0038351790496,3.30529793777445,,,,UN_IGME,,,,,,Total
+Republic of Korea,Under-five mortality rate,Total,2021,2.88819860151198,,"Deaths per 1,000 live births",Normal value,,2.76578718709704,3.01963272472649,,,,UN_IGME,,,,,,Total
+Republic of Moldova,Under-five mortality rate,Female,2021,12.6050647540055,,"Deaths per 1,000 live births",Normal value,,8.93278395431633,18.1252740812191,,,,UN_IGME,,,,,,Total
+Republic of Moldova,Under-five mortality rate,Male,2021,15.7066552561464,,"Deaths per 1,000 live births",Normal value,,11.1126525360872,22.6190607236605,,,,UN_IGME,,,,,,Total
+Republic of Moldova,Under-five mortality rate,Total,2021,14.1965198536722,,"Deaths per 1,000 live births",Normal value,,10.0706357801088,20.3337856587638,,,,UN_IGME,,,,,,Total
+Romania,Under-five mortality rate,Female,2021,5.94003161386721,,"Deaths per 1,000 live births",Normal value,,5.64914444947988,6.23780044885327,,,,UN_IGME,,,,,,Total
+Romania,Under-five mortality rate,Male,2021,6.89296622418725,,"Deaths per 1,000 live births",Normal value,,6.5616361017152,7.2341801607143,,,,UN_IGME,,,,,,Total
+Romania,Under-five mortality rate,Total,2021,6.42687928072302,,"Deaths per 1,000 live births",Normal value,,6.13899140927084,6.72167388462565,,,,UN_IGME,,,,,,Total
+Russian Federation,Under-five mortality rate,Female,2021,4.51810987047338,,"Deaths per 1,000 live births",Normal value,,4.27453848555228,4.7653153923332,,,,UN_IGME,,,,,,Total
+Russian Federation,Under-five mortality rate,Male,2021,5.56329887729563,,"Deaths per 1,000 live births",Normal value,,5.27634782751673,5.86267596147349,,,,UN_IGME,,,,,,Total
+Russian Federation,Under-five mortality rate,Total,2021,5.05489741732959,,"Deaths per 1,000 live births",Normal value,,4.79856238009463,5.31623120611234,,,,UN_IGME,,,,,,Total
+Rwanda,Under-five mortality rate,Female,2021,35.8986518645212,,"Deaths per 1,000 live births",Normal value,,21.7627300242269,59.2851754334378,,,,UN_IGME,,,,,,Total
+Rwanda,Under-five mortality rate,Male,2021,42.7534902212317,,"Deaths per 1,000 live births",Normal value,,25.9587283245516,71.0274625526751,,,,UN_IGME,,,,,,Total
+Rwanda,Under-five mortality rate,Total,2021,39.4388849576268,,"Deaths per 1,000 live births",Normal value,,23.9483311126642,65.509986326037,,,,UN_IGME,,,,,,Total
+Saint Kitts and Nevis,Under-five mortality rate,Female,2021,13.102468111077,,"Deaths per 1,000 live births",Normal value,,8.64404635382209,20.0135736234256,,,,UN_IGME,,,,,,Total
+Saint Kitts and Nevis,Under-five mortality rate,Male,2021,15.9772188660044,,"Deaths per 1,000 live births",Normal value,,10.6519916568638,24.583433068532,,,,UN_IGME,,,,,,Total
+Saint Kitts and Nevis,Under-five mortality rate,Total,2021,14.5602393145555,,"Deaths per 1,000 live births",Normal value,,9.70453826066897,22.281059344564,,,,UN_IGME,,,,,,Total
+Saint Lucia,Under-five mortality rate,Female,2021,22.4411597037292,,"Deaths per 1,000 live births",Normal value,,19.0465988433312,26.4230274111048,,,,UN_IGME,,,,,,Total
+Saint Lucia,Under-five mortality rate,Male,2021,27.0975728811471,,"Deaths per 1,000 live births",Normal value,,23.0462711724133,31.8046330878359,,,,UN_IGME,,,,,,Total
+Saint Lucia,Under-five mortality rate,Total,2021,24.8206367751924,,"Deaths per 1,000 live births",Normal value,,21.2057015469877,29.0051651591547,,,,UN_IGME,,,,,,Total
+Saint Vincent and the Grenadines,Under-five mortality rate,Female,2021,12.4449707823012,,"Deaths per 1,000 live births",Normal value,,9.0930167302306,17.0930371708335,,,,UN_IGME,,,,,,Total
+Saint Vincent and the Grenadines,Under-five mortality rate,Male,2021,14.9124371406378,,"Deaths per 1,000 live births",Normal value,,10.8796515868008,20.2990072783512,,,,UN_IGME,,,,,,Total
+Saint Vincent and the Grenadines,Under-five mortality rate,Total,2021,13.7102622629616,,"Deaths per 1,000 live births",Normal value,,10.0413767568663,18.6844766884193,,,,UN_IGME,,,,,,Total
+Samoa,Under-five mortality rate,Female,2021,14.9945490130294,,"Deaths per 1,000 live births",Normal value,,10.3754315481564,21.5523374877132,,,,UN_IGME,,,,,,Total
+Samoa,Under-five mortality rate,Male,2021,18.3381983235138,,"Deaths per 1,000 live births",Normal value,,12.720188947929,26.3142545177005,,,,UN_IGME,,,,,,Total
+Samoa,Under-five mortality rate,Total,2021,16.7184902404288,,"Deaths per 1,000 live births",Normal value,,11.5749376017857,23.8632280196845,,,,UN_IGME,,,,,,Total
+San Marino,Under-five mortality rate,Female,2021,1.56240251643837,,"Deaths per 1,000 live births",Normal value,,0.744897157698007,3.17981045422582,,,,UN_IGME,,,,,,Total
+San Marino,Under-five mortality rate,Male,2021,1.86259217881755,,"Deaths per 1,000 live births",Normal value,,0.890246391030466,3.8205511648464,,,,UN_IGME,,,,,,Total
+San Marino,Under-five mortality rate,Total,2021,1.71722020526198,,"Deaths per 1,000 live births",Normal value,,0.820725208544556,3.50849732306439,,,,UN_IGME,,,,,,Total
+Sao Tome and Principe,Under-five mortality rate,Female,2021,13.7091049213924,,"Deaths per 1,000 live births",Normal value,,7.81032141929589,23.9419532191742,,,,UN_IGME,,,,,,Total
+Sao Tome and Principe,Under-five mortality rate,Male,2021,17.067455744473,,"Deaths per 1,000 live births",Normal value,,9.65861522304761,29.7425985323224,,,,UN_IGME,,,,,,Total
+Sao Tome and Principe,Under-five mortality rate,Total,2021,15.4255528506189,,"Deaths per 1,000 live births",Normal value,,8.74209137288069,26.9040867865347,,,,UN_IGME,,,,,,Total
+Saudi Arabia,Under-five mortality rate,Female,2021,6.5529491482255,,"Deaths per 1,000 live births",Normal value,,4.90358189838732,9.01269539258177,,,,UN_IGME,,,,,,Total
+Saudi Arabia,Under-five mortality rate,Male,2021,6.87239661530951,,"Deaths per 1,000 live births",Normal value,,5.1527820094796,9.45095074058325,,,,UN_IGME,,,,,,Total
+Saudi Arabia,Under-five mortality rate,Total,2021,6.72113984689055,,"Deaths per 1,000 live births",Normal value,,5.04706187292873,9.22110342934386,,,,UN_IGME,,,,,,Total
+Senegal,Under-five mortality rate,Female,2021,34.5475084334522,,"Deaths per 1,000 live births",Normal value,,25.8769843520108,45.6978076813751,,,,UN_IGME,,,,,,Total
+Senegal,Under-five mortality rate,Male,2021,42.442710495519,,"Deaths per 1,000 live births",Normal value,,31.9490359170594,56.1488431900757,,,,UN_IGME,,,,,,Total
+Senegal,Under-five mortality rate,Total,2021,38.5998567028571,,"Deaths per 1,000 live births",Normal value,,29.0613025440091,51.0640119490309,,,,UN_IGME,,,,,,Total
+Serbia,Under-five mortality rate,Female,2021,4.94674164755987,,"Deaths per 1,000 live births",Normal value,,4.58574303543736,5.34478023241975,,,,UN_IGME,,,,,,Total
+Serbia,Under-five mortality rate,Male,2021,5.99718734012101,,"Deaths per 1,000 live births",Normal value,,5.57417546021453,6.46529962412558,,,,UN_IGME,,,,,,Total
+Serbia,Under-five mortality rate,Total,2021,5.48726640332209,,"Deaths per 1,000 live births",Normal value,,5.11975111864202,5.88673960833411,,,,UN_IGME,,,,,,Total
+Seychelles,Under-five mortality rate,Female,2021,12.7730987003534,,"Deaths per 1,000 live births",Normal value,,9.81080730101184,16.8482760109431,,,,UN_IGME,,,,,,Total
+Seychelles,Under-five mortality rate,Male,2021,14.9924670814661,,"Deaths per 1,000 live births",Normal value,,11.4982630592938,19.7209222826818,,,,UN_IGME,,,,,,Total
+Seychelles,Under-five mortality rate,Total,2021,13.9128051987967,,"Deaths per 1,000 live births",Normal value,,10.7280186133899,18.2888652376961,,,,UN_IGME,,,,,,Total
+Sierra Leone,Under-five mortality rate,Female,2021,97.6165744813601,,"Deaths per 1,000 live births",Normal value,,79.2530830820694,119.8091862957,,,,UN_IGME,,,,,,Total
+Sierra Leone,Under-five mortality rate,Male,2021,111.390489590948,,"Deaths per 1,000 live births",Normal value,,90.8652208367044,136.910986821705,,,,UN_IGME,,,,,,Total
+Sierra Leone,Under-five mortality rate,Total,2021,104.686966254873,,"Deaths per 1,000 live births",Normal value,,85.3456730015819,128.169198731046,,,,UN_IGME,,,,,,Total
+Singapore,Under-five mortality rate,Female,2021,1.91421442320472,,"Deaths per 1,000 live births",Normal value,,1.5602200944858,2.3253868366364,,,,UN_IGME,,,,,,Total
+Singapore,Under-five mortality rate,Male,2021,2.25158475121801,,"Deaths per 1,000 live births",Normal value,,1.82924338127755,2.72925417594162,,,,UN_IGME,,,,,,Total
+Singapore,Under-five mortality rate,Total,2021,2.08832671993751,,"Deaths per 1,000 live births",Normal value,,1.70848961582012,2.52307760933635,,,,UN_IGME,,,,,,Total
+Slovakia,Under-five mortality rate,Female,2021,5.09427620259078,,"Deaths per 1,000 live births",Normal value,,4.80285528799487,5.41604636866851,,,,UN_IGME,,,,,,Total
+Slovakia,Under-five mortality rate,Male,2021,6.15043369227032,,"Deaths per 1,000 live births",Normal value,,5.80645172441266,6.5308723775241,,,,UN_IGME,,,,,,Total
+Slovakia,Under-five mortality rate,Total,2021,5.63310969840537,,"Deaths per 1,000 live births",Normal value,,5.34914937327928,5.95296091082346,,,,UN_IGME,,,,,,Total
+Slovenia,Under-five mortality rate,Female,2021,1.98729206680313,,"Deaths per 1,000 live births",Normal value,,1.72869104817841,2.32816003614658,,,,UN_IGME,,,,,,Total
+Slovenia,Under-five mortality rate,Male,2021,2.34547876843913,,"Deaths per 1,000 live births",Normal value,,2.03832892233858,2.73260588915371,,,,UN_IGME,,,,,,Total
+Slovenia,Under-five mortality rate,Total,2021,2.16959649184589,,"Deaths per 1,000 live births",Normal value,,1.89754852610401,2.52396178445632,,,,UN_IGME,,,,,,Total
+Small Island Developing States (SIDS),Under-five mortality rate,Female,2021,34.5260385522067,,"Deaths per 1,000 live births",Normal value,,29.63990066599,42.4724220492879,,,,UN_IGME,,,,,,Total
+Small Island Developing States (SIDS),Under-five mortality rate,Male,2021,41.0297703807584,,"Deaths per 1,000 live births",Normal value,,35.1629221156282,50.3849707560807,,,,UN_IGME,,,,,,Total
+Small Island Developing States (SIDS),Under-five mortality rate,Total,2021,37.8664823365108,,"Deaths per 1,000 live births",Normal value,,32.5386390200061,46.497113197643,,,,UN_IGME,,,,,,Total
+Solomon Islands,Under-five mortality rate,Female,2021,17.0300647985571,,"Deaths per 1,000 live births",Normal value,,10.4207623799725,26.9057652532757,,,,UN_IGME,,,,,,Total
+Solomon Islands,Under-five mortality rate,Male,2021,20.4482308103234,,"Deaths per 1,000 live births",Normal value,,12.5236049421646,32.3387560257583,,,,UN_IGME,,,,,,Total
+Solomon Islands,Under-five mortality rate,Total,2021,18.7852650646063,,"Deaths per 1,000 live births",Normal value,,11.5310853237078,29.6010892524027,,,,UN_IGME,,,,,,Total
+Somalia,Under-five mortality rate,Female,2021,105.413188815233,,"Deaths per 1,000 live births",Normal value,,48.0660936689441,234.302820598467,,,,UN_IGME,,,,,,Total
+Somalia,Under-five mortality rate,Male,2021,116.995473092732,,"Deaths per 1,000 live births",Normal value,,53.2259236716899,260.239818556864,,,,UN_IGME,,,,,,Total
+Somalia,Under-five mortality rate,Total,2021,111.784553373775,,"Deaths per 1,000 live births",Normal value,,50.7699387562692,247.664521951758,,,,UN_IGME,,,,,,Total
+South Africa,Under-five mortality rate,Female,2021,30.2509689503963,,"Deaths per 1,000 live births",Normal value,,27.5772861696467,33.1788771761701,,,,UN_IGME,,,,,,Total
+South Africa,Under-five mortality rate,Male,2021,35.3117096921205,,"Deaths per 1,000 live births",Normal value,,32.3263655332071,38.7569079760656,,,,UN_IGME,,,,,,Total
+South Africa,Under-five mortality rate,Total,2021,32.8473298627461,,"Deaths per 1,000 live births",Normal value,,30.0955036647487,35.8893617611072,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Female,2021,36.125983337386,,"Deaths per 1,000 live births",,,33.0758918219109,39.7819003168318,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Female,2021,36.125983337386,,"Deaths per 1,000 live births",Normal value,,33.0758918219109,39.7819003168318,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Male,2021,37.9082887680205,,"Deaths per 1,000 live births",,,34.6234899430968,41.7907108416762,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Male,2021,37.9082887680205,,"Deaths per 1,000 live births",Normal value,,34.6234899430968,41.7907108416762,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Total,2021,37.0591031473608,,"Deaths per 1,000 live births",,,33.9584073773697,40.7224477952967,,,,UN_IGME,,,,,,Total
+South Asia,Under-five mortality rate,Total,2021,37.0591031473608,,"Deaths per 1,000 live births",Normal value,,33.9584073773697,40.7224477952967,,,,UN_IGME,,,,,,Total
+South Sudan,Under-five mortality rate,Female,2021,93.8577365007194,,"Deaths per 1,000 live births",Normal value,,33.123611983513,217.727487660314,,,,UN_IGME,,,,,,Total
+South Sudan,Under-five mortality rate,Male,2021,103.617404094147,,"Deaths per 1,000 live births",Normal value,,36.3392769135111,239.995610858647,,,,UN_IGME,,,,,,Total
+South Sudan,Under-five mortality rate,Total,2021,98.6896420102898,,"Deaths per 1,000 live births",Normal value,,34.9686714097357,228.633234563006,,,,UN_IGME,,,,,,Total
+South-Eastern Asia,Under-five mortality rate,Female,2021,20.6439773987021,,"Deaths per 1,000 live births",Normal value,,18.0574715120602,24.4407338840411,,,,UN_IGME,,,,,,Total
+South-Eastern Asia,Under-five mortality rate,Male,2021,25.8009150508751,,"Deaths per 1,000 live births",Normal value,,22.6622337712952,30.4427231551652,,,,UN_IGME,,,,,,Total
+South-Eastern Asia,Under-five mortality rate,Total,2021,23.2891084290729,,"Deaths per 1,000 live births",Normal value,,20.4378868837885,27.4917083625135,,,,UN_IGME,,,,,,Total
+Southern Asia,Under-five mortality rate,Female,2021,35.3096092906083,,"Deaths per 1,000 live births",Normal value,,32.3740009311985,38.8760114269502,,,,UN_IGME,,,,,,Total
+Southern Asia,Under-five mortality rate,Male,2021,37.0857205606283,,"Deaths per 1,000 live births",Normal value,,33.9377823320622,40.8820372462851,,,,UN_IGME,,,,,,Total
+Southern Asia,Under-five mortality rate,Total,2021,36.2391581608754,,"Deaths per 1,000 live births",Normal value,,33.2552169026015,39.831645994114,,,,UN_IGME,,,,,,Total
+Spain,Under-five mortality rate,Female,2021,2.75792694700545,,"Deaths per 1,000 live births",Normal value,,2.57868203786167,2.94146395664543,,,,UN_IGME,,,,,,Total
+Spain,Under-five mortality rate,Male,2021,3.31716158802975,,"Deaths per 1,000 live births",Normal value,,3.11092108828674,3.53053534818652,,,,UN_IGME,,,,,,Total
+Spain,Under-five mortality rate,Total,2021,3.04542876210092,,"Deaths per 1,000 live births",Normal value,,2.86529781053609,3.23178886651367,,,,UN_IGME,,,,,,Total
+Sri Lanka,Under-five mortality rate,Female,2021,6.07396030960139,,"Deaths per 1,000 live births",Normal value,,4.48524463274615,8.14353215642233,,,,UN_IGME,,,,,,Total
+Sri Lanka,Under-five mortality rate,Male,2021,7.39702000666175,,"Deaths per 1,000 live births",Normal value,,5.47344183057159,9.88950687392399,,,,UN_IGME,,,,,,Total
+Sri Lanka,Under-five mortality rate,Total,2021,6.74807457253419,,"Deaths per 1,000 live births",Normal value,,4.99653783561949,9.04033232340671,,,,UN_IGME,,,,,,Total
+State of Palestine,Under-five mortality rate,Female,2021,13.4805435099544,,"Deaths per 1,000 live births",Normal value,,9.77468444218279,18.8663919755888,,,,UN_IGME,,,,,,Total
+State of Palestine,Under-five mortality rate,Male,2021,16.0859063084349,,"Deaths per 1,000 live births",Normal value,,11.6471899945364,22.3195372547869,,,,UN_IGME,,,,,,Total
+State of Palestine,Under-five mortality rate,Total,2021,14.8347506625012,,"Deaths per 1,000 live births",Normal value,,10.7651172774,20.6109416614172,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Female,2021,67.4683948014797,,"Deaths per 1,000 live births",Normal value,,61.6039124094933,79.0851055435609,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Female,2021,68.1557688067482,,"Deaths per 1,000 live births",Normal value,,62.0241690283603,80.1081984824582,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Male,2021,78.2337854862947,,"Deaths per 1,000 live births",Normal value,,71.5273553777492,91.420690083621,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Male,2021,78.9587141442266,,"Deaths per 1,000 live births",Normal value,,72.029371331947,92.5075977259837,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Total,2021,73.0149626808278,,"Deaths per 1,000 live births",Normal value,,66.7191935232065,85.3816712497672,,,,UN_IGME,,,,,,Total
+Sub-Saharan Africa,Under-five mortality rate,Total,2021,73.7214014182258,,"Deaths per 1,000 live births",Normal value,,67.1898883087366,86.4151529983305,,,,UN_IGME,,,,,,Total
+Sudan,Under-five mortality rate,Female,2021,49.7784241152455,,"Deaths per 1,000 live births",Normal value,,33.7462416554687,73.4853189473435,,,,UN_IGME,,,,,,Total
+Sudan,Under-five mortality rate,Male,2021,59.6997935046446,,"Deaths per 1,000 live births",Normal value,,40.5605017653894,87.7617749311266,,,,UN_IGME,,,,,,Total
+Sudan,Under-five mortality rate,Total,2021,54.8955367258834,,"Deaths per 1,000 live births",Normal value,,37.1635167958228,80.5493852118032,,,,UN_IGME,,,,,,Total
+Suriname,Under-five mortality rate,Female,2021,15.0722639131972,,"Deaths per 1,000 live births",Normal value,,9.5008853118645,24.612193319168,,,,UN_IGME,,,,,,Total
+Suriname,Under-five mortality rate,Male,2021,19.1415591884236,,"Deaths per 1,000 live births",Normal value,,12.0742634421211,30.8415251594173,,,,UN_IGME,,,,,,Total
+Suriname,Under-five mortality rate,Total,2021,17.1758135577738,,"Deaths per 1,000 live births",Normal value,,10.8762415346415,27.716263234432,,,,UN_IGME,,,,,,Total
+Sweden,Under-five mortality rate,Female,2021,2.24078334305272,,"Deaths per 1,000 live births",Normal value,,2.07789775845542,2.41652193586865,,,,UN_IGME,,,,,,Total
+Sweden,Under-five mortality rate,Male,2021,2.6759269431241,,"Deaths per 1,000 live births",Normal value,,2.48814341731918,2.87730749890331,,,,UN_IGME,,,,,,Total
+Sweden,Under-five mortality rate,Total,2021,2.46451455062794,,"Deaths per 1,000 live births",Normal value,,2.30013786675735,2.63779447139672,,,,UN_IGME,,,,,,Total
+Switzerland,Under-five mortality rate,Female,2021,3.51159587577567,,"Deaths per 1,000 live births",Normal value,,3.275250684209,3.76273772913844,,,,UN_IGME,,,,,,Total
+Switzerland,Under-five mortality rate,Male,2021,4.13311047345376,,"Deaths per 1,000 live births",Normal value,,3.86415904268266,4.41390469202369,,,,UN_IGME,,,,,,Total
+Switzerland,Under-five mortality rate,Total,2021,3.83055186050193,,"Deaths per 1,000 live births",Normal value,,3.59737753938533,4.07357208728753,,,,UN_IGME,,,,,,Total
+Syrian Arab Republic,Under-five mortality rate,Female,2021,20.0803543048259,,"Deaths per 1,000 live births",Normal value,,10.3729133731951,27.9316842754302,,,,UN_IGME,,,,,,Total
+Syrian Arab Republic,Under-five mortality rate,Male,2021,24.2611888457645,,"Deaths per 1,000 live births",Normal value,,12.5596114967352,33.937993330308,,,,UN_IGME,,,,,,Total
+Syrian Arab Republic,Under-five mortality rate,Total,2021,22.2724429351413,,"Deaths per 1,000 live births",Normal value,,11.5107277828991,30.9184408794755,,,,UN_IGME,,,,,,Total
+Tajikistan,Under-five mortality rate,Female,2021,27.4493665142452,,"Deaths per 1,000 live births",Normal value,,15.9789412941169,47.582117140851,,,,UN_IGME,,,,,,Total
+Tajikistan,Under-five mortality rate,Male,2021,35.1495172024967,,"Deaths per 1,000 live births",Normal value,,20.6772283022881,60.9149325202719,,,,UN_IGME,,,,,,Total
+Tajikistan,Under-five mortality rate,Total,2021,31.4190013278517,,"Deaths per 1,000 live births",Normal value,,18.3942595365066,54.4586980239568,,,,UN_IGME,,,,,,Total
+Thailand,Under-five mortality rate,Female,2021,7.44983809269939,,"Deaths per 1,000 live births",Normal value,,6.22602531702547,9.80319078352468,,,,UN_IGME,,,,,,Total
+Thailand,Under-five mortality rate,Male,2021,9.09108632380946,,"Deaths per 1,000 live births",Normal value,,7.60552361911529,12.0164193659538,,,,UN_IGME,,,,,,Total
+Thailand,Under-five mortality rate,Total,2021,8.29102870296974,,"Deaths per 1,000 live births",Normal value,,6.98268152831224,10.865364521212,,,,UN_IGME,,,,,,Total
+Timor-Leste,Under-five mortality rate,Female,2021,46.1856655405096,,"Deaths per 1,000 live births",Normal value,,30.2333279532093,69.7002709980315,,,,UN_IGME,,,,,,Total
+Timor-Leste,Under-five mortality rate,Male,2021,54.6278667129036,,"Deaths per 1,000 live births",Normal value,,35.8142910936672,82.3539693541081,,,,UN_IGME,,,,,,Total
+Timor-Leste,Under-five mortality rate,Total,2021,50.5489746820447,,"Deaths per 1,000 live births",Normal value,,33.1690212143697,75.9707595855666,,,,UN_IGME,,,,,,Total
+Togo,Under-five mortality rate,Female,2021,57.4428357703094,,"Deaths per 1,000 live births",Normal value,,43.1346896320932,76.459340255686,,,,UN_IGME,,,,,,Total
+Togo,Under-five mortality rate,Male,2021,67.5006374021933,,"Deaths per 1,000 live births",Normal value,,50.602496859419,89.3598157308829,,,,UN_IGME,,,,,,Total
+Togo,Under-five mortality rate,Total,2021,62.604451777555,,"Deaths per 1,000 live births",Normal value,,47.0581648077656,82.8490777084356,,,,UN_IGME,,,,,,Total
+Tonga,Under-five mortality rate,Female,2021,9.78125289744968,,"Deaths per 1,000 live births",Normal value,,5.23947429249143,17.1072119395796,,,,UN_IGME,,,,,,Total
+Tonga,Under-five mortality rate,Male,2021,12.4022728171717,,"Deaths per 1,000 live births",Normal value,,6.68901960297026,21.7081015998726,,,,UN_IGME,,,,,,Total
+Tonga,Under-five mortality rate,Total,2021,11.1398831041552,,"Deaths per 1,000 live births",Normal value,,5.97996259208644,19.4394512345146,,,,UN_IGME,,,,,,Total
+Trinidad and Tobago,Under-five mortality rate,Female,2021,14.7226929335147,,"Deaths per 1,000 live births",Normal value,,6.02028786594629,37.5291908186252,,,,UN_IGME,,,,,,Total
+Trinidad and Tobago,Under-five mortality rate,Male,2021,17.829712305106,,"Deaths per 1,000 live births",Normal value,,7.30296102552859,45.2865947045239,,,,UN_IGME,,,,,,Total
+Trinidad and Tobago,Under-five mortality rate,Total,2021,16.3317657427349,,"Deaths per 1,000 live births",Normal value,,6.70395750000396,41.5347733276037,,,,UN_IGME,,,,,,Total
+Tunisia,Under-five mortality rate,Female,2021,14.8942754448631,,"Deaths per 1,000 live births",Normal value,,12.5462719571434,17.6556577999361,,,,UN_IGME,,,,,,Total
+Tunisia,Under-five mortality rate,Male,2021,17.6736934111669,,"Deaths per 1,000 live births",Normal value,,14.9000109986577,20.9080999971441,,,,UN_IGME,,,,,,Total
+Tunisia,Under-five mortality rate,Total,2021,16.3213438249204,,"Deaths per 1,000 live births",Normal value,,13.7749204838045,19.2824303382134,,,,UN_IGME,,,,,,Total
+Turkmenistan,Under-five mortality rate,Female,2021,35.4793703106858,,"Deaths per 1,000 live births",Normal value,,23.1463049754731,53.9877149506737,,,,UN_IGME,,,,,,Total
+Turkmenistan,Under-five mortality rate,Male,2021,46.9869956813787,,"Deaths per 1,000 live births",Normal value,,30.6875114052343,70.9187726006282,,,,UN_IGME,,,,,,Total
+Turkmenistan,Under-five mortality rate,Total,2021,41.4278028316905,,"Deaths per 1,000 live births",Normal value,,27.0376699477704,62.8238987552916,,,,UN_IGME,,,,,,Total
+Turks and Caicos Islands,Under-five mortality rate,Female,2021,4.20803200441191,,"Deaths per 1,000 live births",Normal value,,2.49677153132978,7.1639987264335,,,,UN_IGME,,,,,,Total
+Turks and Caicos Islands,Under-five mortality rate,Male,2021,4.76059814295549,,"Deaths per 1,000 live births",Normal value,,2.83222037052077,8.08692141175755,,,,UN_IGME,,,,,,Total
+Turks and Caicos Islands,Under-five mortality rate,Total,2021,4.48939031066383,,"Deaths per 1,000 live births",Normal value,,2.66967993376428,7.62776722909043,,,,UN_IGME,,,,,,Total
+Tuvalu,Under-five mortality rate,Female,2021,19.0202174575955,,"Deaths per 1,000 live births",Normal value,,10.6925734510181,33.5955044748963,,,,UN_IGME,,,,,,Total
+Tuvalu,Under-five mortality rate,Male,2021,23.3323568151005,,"Deaths per 1,000 live births",Normal value,,13.0340759436669,41.0410816349608,,,,UN_IGME,,,,,,Total
+Tuvalu,Under-five mortality rate,Total,2021,21.2540893213512,,"Deaths per 1,000 live births",Normal value,,11.9263575377171,37.3448030352474,,,,UN_IGME,,,,,,Total
+Türkiye,Under-five mortality rate,Female,2021,8.36683138106269,,"Deaths per 1,000 live births",Normal value,,7.16912998999377,9.92490769539553,,,,UN_IGME,,,,,,Total
+Türkiye,Under-five mortality rate,Male,2021,9.56052065875538,,"Deaths per 1,000 live births",Normal value,,8.19913362440369,11.3156259165871,,,,UN_IGME,,,,,,Total
+Türkiye,Under-five mortality rate,Total,2021,8.98016799425261,,"Deaths per 1,000 live births",Normal value,,7.71038661648795,10.6323739260367,,,,UN_IGME,,,,,,Total
+Uganda,Under-five mortality rate,Female,2021,37.4686273970964,,"Deaths per 1,000 live births",Normal value,,26.0635329025265,53.1768647593816,,,,UN_IGME,,,,,,Total
+Uganda,Under-five mortality rate,Male,2021,46.5149329519706,,"Deaths per 1,000 live births",Normal value,,32.4109452579473,66.3091589645234,,,,UN_IGME,,,,,,Total
+Uganda,Under-five mortality rate,Total,2021,42.1281824436793,,"Deaths per 1,000 live births",Normal value,,29.3478078456861,59.8663243140522,,,,UN_IGME,,,,,,Total
+Ukraine,Under-five mortality rate,Female,2021,7.4304318565403,,"Deaths per 1,000 live births",Normal value,,6.90410892739702,7.98653443978999,,,,UN_IGME,,,,,,Total
+Ukraine,Under-five mortality rate,Male,2021,8.99946523455053,,"Deaths per 1,000 live births",Normal value,,8.43060674397523,9.59640641002865,,,,UN_IGME,,,,,,Total
+Ukraine,Under-five mortality rate,Total,2021,8.22322547835979,,"Deaths per 1,000 live births",Normal value,,7.86377811656589,8.65164182810885,,,,UN_IGME,,,,,,Total
+United Arab Emirates,Under-five mortality rate,Female,2021,5.7265125685576,,"Deaths per 1,000 live births",Normal value,,4.8684015428846,6.76182118911478,,,,UN_IGME,,,,,,Total
+United Arab Emirates,Under-five mortality rate,Male,2021,6.97767992132543,,"Deaths per 1,000 live births",Normal value,,5.93586900931139,8.19690484760847,,,,UN_IGME,,,,,,Total
+United Arab Emirates,Under-five mortality rate,Total,2021,6.37177633181807,,"Deaths per 1,000 live births",Normal value,,5.43234697861314,7.48044958698596,,,,UN_IGME,,,,,,Total
+United Kingdom,Under-five mortality rate,Female,2021,3.79542798308763,,"Deaths per 1,000 live births",Normal value,,3.59122015985909,4.01285289471553,,,,UN_IGME,,,,,,Total
+United Kingdom,Under-five mortality rate,Male,2021,4.5567989081663,,"Deaths per 1,000 live births",Normal value,,4.31578201837582,4.80265680825254,,,,UN_IGME,,,,,,Total
+United Kingdom,Under-five mortality rate,Total,2021,4.18539847253471,,"Deaths per 1,000 live births",Normal value,,3.97693448144871,4.40218973485087,,,,UN_IGME,,,,,,Total
+United Republic of Tanzania,Under-five mortality rate,Female,2021,43.3951080107245,,"Deaths per 1,000 live births",Normal value,,29.4086737740059,64.7297526428071,,,,UN_IGME,,,,,,Total
+United Republic of Tanzania,Under-five mortality rate,Male,2021,50.6698553310047,,"Deaths per 1,000 live births",Normal value,,34.409908541048,76.0245983483345,,,,UN_IGME,,,,,,Total
+United Republic of Tanzania,Under-five mortality rate,Total,2021,47.1164020668742,,"Deaths per 1,000 live births",Normal value,,32.1204713523827,70.4564931953406,,,,UN_IGME,,,,,,Total
+United States,Under-five mortality rate,Female,2021,5.65097758617551,,"Deaths per 1,000 live births",Normal value,,5.33388795569387,5.98072787593896,,,,UN_IGME,,,,,,Total
+United States,Under-five mortality rate,Male,2021,6.80479423502832,,"Deaths per 1,000 live births",Normal value,,6.43175841434474,7.19744768328058,,,,UN_IGME,,,,,,Total
+United States,Under-five mortality rate,Total,2021,6.24297945213506,,"Deaths per 1,000 live births",Normal value,,5.909425496051,6.59035421691293,,,,UN_IGME,,,,,,Total
+Uruguay,Under-five mortality rate,Female,2021,5.23469121027173,,"Deaths per 1,000 live births",Normal value,,4.73611197397529,5.76866131850889,,,,UN_IGME,,,,,,Total
+Uruguay,Under-five mortality rate,Male,2021,6.38422225326859,,"Deaths per 1,000 live births",Normal value,,5.79131033624592,7.0281592050325,,,,UN_IGME,,,,,,Total
+Uruguay,Under-five mortality rate,Total,2021,5.82309849357604,,"Deaths per 1,000 live births",Normal value,,5.29927572555235,6.38300535596341,,,,UN_IGME,,,,,,Total
+Uzbekistan,Under-five mortality rate,Female,2021,12.1811026234028,,"Deaths per 1,000 live births",Normal value,,10.8812513775072,13.9950087456807,,"The most recent official national estimates of neonatal, infant and under-five mortality rates in Uzbekistan are from the vital registration system, with a rate of 5.9, 9.2 and 12.3 deaths per 1,000 live births for both sexes, respectively, in 2021. The most recent official sex-specific estimates from the vital registration system for infant and under-five mortality for males are 10.1 and 13.4 deaths per 1,000 live births and 8.2 and 11.1 deaths per 1,000 live births, respectively, in 2021.",,UN_IGME,,,,,,Total
+Uzbekistan,Under-five mortality rate,Male,2021,15.8818808471415,,"Deaths per 1,000 live births",Normal value,,14.2926169000847,18.1766020023639,,"The most recent official national estimates of neonatal, infant and under-five mortality rates in Uzbekistan are from the vital registration system, with a rate of 5.9, 9.2 and 12.3 deaths per 1,000 live births for both sexes, respectively, in 2021. The most recent official sex-specific estimates from the vital registration system for infant and under-five mortality for males are 10.1 and 13.4 deaths per 1,000 live births and 8.2 and 11.1 deaths per 1,000 live births, respectively, in 2021.",,UN_IGME,,,,,,Total
+Uzbekistan,Under-five mortality rate,Total,2021,14.0660642215447,,"Deaths per 1,000 live births",Normal value,,12.7904548061997,16.0071345990346,,"The most recent official national estimates of neonatal, infant and under-five mortality rates in Uzbekistan are from the vital registration system, with a rate of 5.9, 9.2 and 12.3 deaths per 1,000 live births for both sexes, respectively, in 2021. The most recent official sex-specific estimates from the vital registration system for infant and under-five mortality for males are 10.1 and 13.4 deaths per 1,000 live births and 8.2 and 11.1 deaths per 1,000 live births, respectively, in 2021.",,UN_IGME,,,,,,Total
+Vanuatu,Under-five mortality rate,Female,2021,21.3234487282385,,"Deaths per 1,000 live births",Normal value,,12.0164064264452,38.4275609742754,,,,UN_IGME,,,,,,Total
+Vanuatu,Under-five mortality rate,Male,2021,25.1120363077203,,"Deaths per 1,000 live births",Normal value,,14.1369507525915,44.9672408911699,,,,UN_IGME,,,,,,Total
+Vanuatu,Under-five mortality rate,Total,2021,23.214131398371,,"Deaths per 1,000 live births",Normal value,,13.1651027647961,41.703632195351,,,,UN_IGME,,,,,,Total
+Venezuela (Bolivarian Republic of),Under-five mortality rate,Female,2021,22.1399943448726,,"Deaths per 1,000 live births",Normal value,,16.2567132784457,30.1596084623298,,,,UN_IGME,,,,,,Total
+Venezuela (Bolivarian Republic of),Under-five mortality rate,Male,2021,26.1386264136838,,"Deaths per 1,000 live births",Normal value,,19.1724224432879,35.633988166167,,,,UN_IGME,,,,,,Total
+Venezuela (Bolivarian Republic of),Under-five mortality rate,Total,2021,24.2297258674952,,"Deaths per 1,000 live births",Normal value,,17.8216372597387,32.9784913205781,,,,UN_IGME,,,,,,Total
+Viet Nam,Under-five mortality rate,Female,2021,16.9522229416949,,"Deaths per 1,000 live births",Normal value,,14.9789086077439,19.332995526841,,,,UN_IGME,,,,,,Total
+Viet Nam,Under-five mortality rate,Male,2021,24.066553759125,,"Deaths per 1,000 live births",Normal value,,21.3161914582507,27.3048648676059,,,,UN_IGME,,,,,,Total
+Viet Nam,Under-five mortality rate,Total,2021,20.6016287352245,,"Deaths per 1,000 live births",Normal value,,18.318834739652,23.350928010013,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Female,2021,85.2597537691117,,"Deaths per 1,000 live births",Normal value,,73.6752070778561,103.617383534241,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Female,2021,85.2597537691117,,"Deaths per 1,000 live births",,,73.6752070778561,103.617383534241,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Male,2021,97.3738975041073,,"Deaths per 1,000 live births",Normal value,,84.2463432399415,118.045252899198,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Male,2021,97.3738975041073,,"Deaths per 1,000 live births",,,84.2463432399415,118.045252899198,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Total,2021,91.4993485844541,,"Deaths per 1,000 live births",Normal value,,79.1570712586348,110.79461775949,,,,UN_IGME,,,,,,Total
+West and Central Africa,Under-five mortality rate,Total,2021,91.4993485844541,,"Deaths per 1,000 live births",,,79.1570712586348,110.79461775949,,,,UN_IGME,,,,,,Total
+Western Asia,Under-five mortality rate,Female,2021,21.0653320532138,,"Deaths per 1,000 live births",Normal value,,15.187326208414,32.968103258817,,,,UN_IGME,,,,,,Total
+Western Asia,Under-five mortality rate,Male,2021,24.5999376070133,,"Deaths per 1,000 live births",Normal value,,17.8044900280711,38.3495940367865,,,,UN_IGME,,,,,,Total
+Western Asia,Under-five mortality rate,Total,2021,22.8227914390228,,"Deaths per 1,000 live births",Normal value,,16.5451383082779,35.5622298838064,,,,UN_IGME,,,,,,Total
+Western Europe,Under-five mortality rate,Female,2021,3.34232120018352,,"Deaths per 1,000 live births",Normal value,,3.27538762767536,3.41773958578108,,,,UN_IGME,,,,,,Total
+Western Europe,Under-five mortality rate,Male,2021,4.00575194781494,,"Deaths per 1,000 live births",Normal value,,3.9244797832464,4.09196121368517,,,,UN_IGME,,,,,,Total
+Western Europe,Under-five mortality rate,Total,2021,3.68238883086003,,"Deaths per 1,000 live births",Normal value,,3.61293746084951,3.75955502924639,,,,UN_IGME,,,,,,Total
+World,Under-five mortality rate,Female,2021,35.7399645232621,,"Deaths per 1,000 live births",Normal value,,33.8857682089557,39.6951492675362,,,,UN_IGME,,,,,,Total
+World,Under-five mortality rate,Male,2021,40.2757013458236,,"Deaths per 1,000 live births",Normal value,,38.2418503154226,44.7004067775504,,,,UN_IGME,,,,,,Total
+World,Under-five mortality rate,Total,2021,38.092442829294,,"Deaths per 1,000 live births",Normal value,,36.1257130309518,42.2408954637266,,,,UN_IGME,,,,,,Total
+World Bank (high income),Under-five mortality rate,Female,2021,4.45720397457139,,"Deaths per 1,000 live births",Normal value,,4.31784661625161,4.66504001947763,,,,UN_IGME,,,,,,Total
+World Bank (high income),Under-five mortality rate,Male,2021,5.27128980577074,,"Deaths per 1,000 live births",Normal value,,5.11622788949939,5.50478004383971,,,,UN_IGME,,,,,,Total
+World Bank (high income),Under-five mortality rate,Total,2021,4.87498655173013,,"Deaths per 1,000 live births",Normal value,,4.73112396475001,5.08846302181951,,,,UN_IGME,,,,,,Total
+World Bank (low income),Under-five mortality rate,Female,2021,62.1365979166653,,"Deaths per 1,000 live births",Normal value,,56.8050424340653,74.0182406413359,,,,UN_IGME,,,,,,Total
+World Bank (low income),Under-five mortality rate,Male,2021,72.4119463572263,,"Deaths per 1,000 live births",Normal value,,66.2619144328546,86.3272944499372,,,,UN_IGME,,,,,,Total
+World Bank (low income),Under-five mortality rate,Total,2021,67.4067826337849,,"Deaths per 1,000 live births",Normal value,,61.7035217609307,80.2017498069047,,,,UN_IGME,,,,,,Total
+World Bank (lower middle income),Under-five mortality rate,Female,2021,41.3149274344593,,"Deaths per 1,000 live births",Normal value,,37.9364152178892,46.8831205460615,,,,UN_IGME,,,,,,Total
+World Bank (lower middle income),Under-five mortality rate,Male,2021,45.8067692636706,,"Deaths per 1,000 live births",Normal value,,42.0230618291889,51.8461757401263,,,,UN_IGME,,,,,,Total
+World Bank (lower middle income),Under-five mortality rate,Total,2021,43.6514772576889,,"Deaths per 1,000 live births",Normal value,,40.0688285799547,49.4649710543742,,,,UN_IGME,,,,,,Total
+World Bank (upper middle income),Under-five mortality rate,Female,2021,10.767439522442,,"Deaths per 1,000 live births",Normal value,,10.3078374876856,11.5414828760337,,,,UN_IGME,,,,,,Total
+World Bank (upper middle income),Under-five mortality rate,Male,2021,12.6636764486877,,"Deaths per 1,000 live births",Normal value,,12.1412898860882,13.5698969626972,,,,UN_IGME,,,,,,Total
+World Bank (upper middle income),Under-five mortality rate,Total,2021,11.7501946037147,,"Deaths per 1,000 live births",Normal value,,11.272957338326,12.5711387792609,,,,UN_IGME,,,,,,Total
+Yemen,Under-five mortality rate,Female,2021,58.0005461158674,,"Deaths per 1,000 live births",Normal value,,25.6369101836884,122.492401501863,,,,UN_IGME,,,,,,Total
+Yemen,Under-five mortality rate,Male,2021,66.3006456545144,,"Deaths per 1,000 live births",Normal value,,29.4933632919567,140.95004853639,,,,UN_IGME,,,,,,Total
+Yemen,Under-five mortality rate,Total,2021,61.908941015291,,"Deaths per 1,000 live births",Normal value,,27.6962408057808,131.934641551917,,,,UN_IGME,,,,,,Total
+Zambia,Under-five mortality rate,Female,2021,52.5918213919198,,"Deaths per 1,000 live births",Normal value,,37.3661297269989,73.7358887140988,,,,UN_IGME,,,,,,Total
+Zambia,Under-five mortality rate,Male,2021,62.4840031899873,,"Deaths per 1,000 live births",Normal value,,44.4156642210543,87.3436544437585,,,,UN_IGME,,,,,,Total
+Zambia,Under-five mortality rate,Total,2021,57.6918336731377,,"Deaths per 1,000 live births",Normal value,,40.9423914223078,80.4884823487446,,,,UN_IGME,,,,,,Total
+Zimbabwe,Under-five mortality rate,Female,2021,44.8010198134621,,"Deaths per 1,000 live births",Normal value,,30.8093334888404,65.2057050982787,,,,UN_IGME,,,,,,Total
+Zimbabwe,Under-five mortality rate,Male,2021,53.98873191956,,"Deaths per 1,000 live births",Normal value,,37.0758963524544,78.3686048512987,,,,UN_IGME,,,,,,Total
+Zimbabwe,Under-five mortality rate,Total,2021,49.5219717587307,,"Deaths per 1,000 live births",Normal value,,34.1577527652977,71.8946202645696,,,,UN_IGME,,,,,,Total
+,,,,,,,,,,,,,,,,,,,,
